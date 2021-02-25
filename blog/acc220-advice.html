@@ -19,10 +19,9 @@
       crossorigin="anonymous"
     />
 
-    <link href="/cs/blog.css" rel="stylesheet">
+    <link href="/cs/blog.css" rel="stylesheet" />
 
     <title>sozodennis</title>
-
   </head>
   <body>
     <div class="container p-4 pt-5">
@@ -44,42 +43,25 @@
 
       <main>
         <article>
-          <h3 class="font-weight-bold mb-3">Respondus LockDown Browser does not like Virtual Desktop.<br><small>02/08/2021</small></h3>
-          <p>
-            If you're in college in 2020-2021, you probably had to use Respondus LockDown for one of your online classes.
-            Usually Respondus does a good job of notifiying you when it doesn't like a program, then <u>closes it for you.</u>
-            Not for Virtual Desktop though. It will notify you, but simply leave it running, making <u>you close it yourself</u>.
-          </p>
-          <div class="mb-2"><img src="/assets/blog/virtualdesktop-stop-script\respondus-virtualdesktop-screenshot.jpg" class="img-fluid" alt="Respondus Lockdown Virtual Desktop Service Notification"></div>
-          <aside class="small">Extremely annoying when you have to finish a quiz in... 3 minutes 🤡</aside>
-
-          <h3 class="mt-3">Solution? Use a BAT script.</h3>
-          <p>Manually, you had to search for VirtualDesktop.Streamer.exe and VirtualDesktop.Service.exe via Task Manager then close them.
-            Since we <em>love automation</em> I made a bat script to automate closing of VirtualDesktop!
-          </p>
-
-          <ol>
-            <li>Open Notepad</li>
-            <li>Paste the following commands into Notepad: <br>
-              <code> taskkill /F /IM VirtualDesktop.Streamer.exe <br>
-                taskkill /F /IM VirtualDesktop.Service.exe</code>
-            </li>
-            <li>Go to File/Save As</li>
-            <li>Save the script as "StopVirtualDesktopScript.bat" Ensure that you Save as type: All Files<br>
-              <div class="mb-2"><img src="/assets/blog/virtualdesktop-stop-script/StopVirtualDesktopBat.jpg" class="img-fluid" alt="Screenshot StopVirtualDesktopScript.bat"></div>
-            </li>
-            <li>Go to where you saved it, then run it as administrator!</li>
-          </ol>
-
-          <p>Now everytime you use Respondus,  run the script as admin and go finish that quiz! You can also automate running the script as admin by checking the StackOverFlow article below.</p>
-
-          <h4>Sources</h4>
+          <h3 class="font-weight-bold mb-3">
+            College Accounting Course Advice<br /><small>02/24/2021</small>
+          </h3>
+          <p>At first, I hated Accounting. I didn't understanding credit / debit for certain accounts. Why learn any of this if I won't use this in my career? McGraw-Hill sucks, etc etc etc excuses.</p>
+          <p>Now that I'm near the end of college and taking my final required Accounting class, its all making sense to me. Its actual useful for startups where its essential to know your runway. I can read a company's SEC financial documents and it somewhat makes sense! Finally, understanding what businesses usually track in their accounting, indirectly tells you how <strong>you can increase a business's revenue, or reduce their costs.</strong></p>
+          <aside class="small mb-2">Thanks @patio11 for the fundamental mind shift for lil sophmore me! <br><a href="https://www.kalzumeus.com/2012/01/23/salary-negotiation/">Salary Negotiation: Make More Money, Be More Valued</a></aside>
+          <p>During my Prometheus Group internship, I didn't understand why people would want to track tedious part numbers like BOLT-48848... In retrospect we were essentially tracking Direct Material & Direct Labor for SAP. Just not at a computer but with mobile phones. SAP is one big ol accounting system to track whats being used. Thus, thats all accounting really is. Systematically tracking whats resources are being used.</p>
+          
+          <h4>My advice</h4>
+          <aside class="small mb-2">FYI: I only took ACC210 Financial Reporting and ACC220 Managerial Accounting at NCSU so this may not apply for the advanced 300 courses</aside>
           <ul>
-            <li><a href="https://stackoverflow.com/questions/2888851/how-to-stop-process-from-bat-file">How to stop process from .BAT file?</a></li>
-            <li><a href="https://stackoverflow.com/questions/18755553/automatically-running-a-batch-file-as-an-administrator/51472107">Automatically running a batch file as an administrator</a></li>
+            <li>Read this book <br><iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B004JHYTDE&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_DK0WR8H5J6FK0XCK8TDH" ></iframe><p>Its a condensed simple version of ACC210.</p></li>
+            <li>Do the homework. <p>Its one of the few business classes that you can't bullshit. <br>Either you know how to cook the books, or you don't.</p></li>
+            <li>Assigned McGraw-Hill "SmartBook"? Review the powerpoints first.<p>The powerpoints usually given by the professors are condensed versions of the textbook. Also the McGraw-Hill online textbook sucks. Don't waste your time, review the powerpoints then attempt the Smartbook review questions.</p></li>
+            <li class="font-weight-bold">Do the homework.<p>As I said, one of the few classes you can't bullshit. Reading & taking notes won't save your smooth brain.</p></li>
           </ul>
+          <p>TBH I made this post to procrastinate Accounting HW. I'll update it with more advice... or not idk.</p>
         </article>
-        </main>
+      </main>
 
       <hr />
       <footer class="mt-4">

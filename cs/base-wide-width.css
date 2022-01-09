@@ -20,6 +20,12 @@ body {
     display: block;
     margin-bottom: 0.5rem;
   }
+  #projects h3 {
+    font-size: 18px;
+  }
+  #projects a {
+    font-weight: 550;
+  }
   #work h3 {
     font-size: 18px;
   }

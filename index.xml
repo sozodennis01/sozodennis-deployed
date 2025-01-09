@@ -628,17 +628,279 @@
 
 &lt;div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
  
- &lt;div class="instagram-embed">
- &lt;blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/B1ZfPCPnp8E/?utm_source=ig_embed&amp;amp;utm_campaign=loading" data-instgrm-version="13" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px rgba(0,0,0,0.5),0 1px 10px rgba(0,0,0,0.15); margin:1px; max-width:540px; min-width:326px; padding:0; width:100%;">
- &lt;div style="padding:16px;">
- &lt;a href="https://www.instagram.com/p/B1ZfPCPnp8E/?utm_source=ig_embed&amp;amp;utm_campaign=loading" target="_blank" style="text-decoration:none; color:inherit;">
+ &lt;blockquote 
+ class="instagram-media" 
+ data-instgrm-captioned 
+ data-instgrm-permalink="https://www.instagram.com/p/B1ZfPCPnp8E/?utm_source=ig_embed&amp;amp;utm_campaign=loading"
+ data-instgrm-version="14" 
+ style="
+ background:#FFF; 
+ border:0; 
+ border-radius:3px; 
+ box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); 
+ margin:1px; 
+ max-width:540px; 
+ min-width:326px; 
+ padding:0; 
+ width:99.375%; 
+ width:-webkit-calc(100% - 2px); 
+ width:calc(100% - 2px);
+ "
+ >
  
+ &lt;/blockquote>
+ &lt;script async src="//www.instagram.com/embed.js">&lt;/script>
  
- &lt;/a>
+ &lt;blockquote 
+ class="instagram-media" 
+ data-instgrm-captioned 
+ data-instgrm-permalink="https://www.instagram.com/p/B3m_BqxHehe/?utm_source=ig_embed&amp;amp;utm_campaign=loading"
+ data-instgrm-version="14" 
+ style="
+ background:#FFF; 
+ border:0; 
+ border-radius:3px; 
+ box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); 
+ margin:1px; 
+ max-width:540px; 
+ min-width:326px; 
+ padding:0; 
+ width:99.375%; 
+ width:-webkit-calc(100% - 2px); 
+ width:calc(100% - 2px);
+ "
+ >
+ 
+ &lt;/blockquote>
+ &lt;script async src="//www.instagram.com/embed.js">&lt;/script>
+ 
+ &lt;blockquote 
+ class="instagram-media" 
+ data-instgrm-captioned 
+ data-instgrm-permalink="https://www.instagram.com/p/BjCszpxAXoF/?utm_source=ig_embed&amp;amp;utm_campaign=loading"
+ data-instgrm-version="14" 
+ style="
+ background:#FFF; 
+ border:0; 
+ border-radius:3px; 
+ box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); 
+ margin:1px; 
+ max-width:540px; 
+ min-width:326px; 
+ padding:0; 
+ width:99.375%; 
+ width:-webkit-calc(100% - 2px); 
+ width:calc(100% - 2px);
+ "
+ >
+ 
+ &lt;/blockquote>
+ &lt;script async src="//www.instagram.com/embed.js">&lt;/script>
+ 
+ &lt;blockquote 
+ class="instagram-media" 
+ data-instgrm-captioned 
+ data-instgrm-permalink="https://www.instagram.com/p/BpiKo_nHLxP/?utm_source=ig_embed&amp;amp;utm_campaign=loading"
+ data-instgrm-version="14" 
+ style="
+ background:#FFF; 
+ border:0; 
+ border-radius:3px; 
+ box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); 
+ margin:1px; 
+ max-width:540px; 
+ min-width:326px; 
+ padding:0; 
+ width:99.375%; 
+ width:-webkit-calc(100% - 2px); 
+ width:calc(100% - 2px);
+ "
+ >
+ 
+ &lt;/blockquote>
+ &lt;script async src="//www.instagram.com/embed.js">&lt;/script>
+ 
+ &lt;blockquote 
+ class="instagram-media" 
+ data-instgrm-captioned 
+ data-instgrm-permalink="https://www.instagram.com/p/Bw2G7TlHFmg/?utm_source=ig_embed&amp;amp;utm_campaign=loading"
+ data-instgrm-version="14" 
+ style="
+ background:#FFF; 
+ border:0; 
+ border-radius:3px; 
+ box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); 
+ margin:1px; 
+ max-width:540px; 
+ min-width:326px; 
+ padding:0; 
+ width:99.375%; 
+ width:-webkit-calc(100% - 2px); 
+ width:calc(100% - 2px);
+ "
+ >
+ 
+ &lt;/blockquote>
+ &lt;script async src="//www.instagram.com/embed.js">&lt;/script>
+ 
+ &lt;blockquote 
+ class="instagram-media" 
+ data-instgrm-captioned 
+ data-instgrm-permalink="https://www.instagram.com/p/BtwhKFKHn4t/?utm_source=ig_embed&amp;amp;utm_campaign=loading"
+ data-instgrm-version="14" 
+ style="
+ background:#FFF; 
+ border:0; 
+ border-radius:3px; 
+ box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); 
+ margin:1px; 
+ max-width:540px; 
+ min-width:326px; 
+ padding:0; 
+ width:99.375%; 
+ width:-webkit-calc(100% - 2px); 
+ width:calc(100% - 2px);
+ "
+ >
+ 
+ &lt;/blockquote>
+ &lt;script async src="//www.instagram.com/embed.js">&lt;/script>
+ 
+ &lt;blockquote 
+ class="instagram-media" 
+ data-instgrm-captioned 
+ data-instgrm-permalink="https://www.instagram.com/p/B3vGAp2nDfL/?utm_source=ig_embed&amp;amp;utm_campaign=loading"
+ data-instgrm-version="14" 
+ style="
+ background:#FFF; 
+ border:0; 
+ border-radius:3px; 
+ box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); 
+ margin:1px; 
+ max-width:540px; 
+ min-width:326px; 
+ padding:0; 
+ width:99.375%; 
+ width:-webkit-calc(100% - 2px); 
+ width:calc(100% - 2px);
+ "
+ >
+ 
+ &lt;/blockquote>
+ &lt;script async src="//www.instagram.com/embed.js">&lt;/script>
+ 
+ &lt;blockquote 
+ class="instagram-media" 
+ data-instgrm-captioned 
+ data-instgrm-permalink="https://www.instagram.com/p/B4NDZlSHWEq/?utm_source=ig_embed&amp;amp;utm_campaign=loading"
+ data-instgrm-version="14" 
+ style="
+ background:#FFF; 
+ border:0; 
+ border-radius:3px; 
+ box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); 
+ margin:1px; 
+ max-width:540px; 
+ min-width:326px; 
+ padding:0; 
+ width:99.375%; 
+ width:-webkit-calc(100% - 2px); 
+ width:calc(100% - 2px);
+ "
+ >
+ 
+ &lt;/blockquote>
+ &lt;script async src="//www.instagram.com/embed.js">&lt;/script>
+ 
+ &lt;blockquote 
+ class="instagram-media" 
+ data-instgrm-captioned 
+ data-instgrm-permalink="https://www.instagram.com/p/B4k8VB7nR5m/?utm_source=ig_embed&amp;amp;utm_campaign=loading"
+ data-instgrm-version="14" 
+ style="
+ background:#FFF; 
+ border:0; 
+ border-radius:3px; 
+ box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); 
+ margin:1px; 
+ max-width:540px; 
+ min-width:326px; 
+ padding:0; 
+ width:99.375%; 
+ width:-webkit-calc(100% - 2px); 
+ width:calc(100% - 2px);
+ "
+ >
+ 
+ &lt;/blockquote>
+ &lt;script async src="//www.instagram.com/embed.js">&lt;/script>
+ 
+ &lt;blockquote 
+ class="instagram-media" 
+ data-instgrm-captioned 
+ data-instgrm-permalink="https://www.instagram.com/p/B8tkHPSHK6m/?utm_source=ig_embed&amp;amp;utm_campaign=loading"
+ data-instgrm-version="14" 
+ style="
+ background:#FFF; 
+ border:0; 
+ border-radius:3px; 
+ box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); 
+ margin:1px; 
+ max-width:540px; 
+ min-width:326px; 
+ padding:0; 
+ width:99.375%; 
+ width:-webkit-calc(100% - 2px); 
+ width:calc(100% - 2px);
+ "
+ >
+ 
+ &lt;/blockquote>
+ &lt;script async src="//www.instagram.com/embed.js">&lt;/script>
+&lt;/div>
+
+&lt;h3 id="videos">Videos&lt;/h3>
+
+
+&lt;div class="grid grid-cols-2 sm:grid-cols-2 gap-4 mt-8">
+ &lt;div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full ">
+ &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/f_BjD5wQes0" title="YouTube video player" frameborder="0"
+ class="w-full h-full rounded-lg "
+ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+ referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
  &lt;/div>
- &lt;p style="text-align:center;">
- &lt;a href="https://www.instagram.com/p/B1ZfPCPnp8E/?utm_source=ig_embed&amp;amp;utm_campaign=loading" target="_blank" style="color:#c9c8cd; text-decoration:none;">View this post on Instagram&lt;/a>
- &lt;/p></description><content:encoded><![CDATA[<h2 id="photography-portfolio">Photography Portfolio</h2>
+ &lt;div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full ">
+ &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/MPlXC4Rvdqs" title="YouTube video player" frameborder="0"
+ class="w-full h-full rounded-lg "
+ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+ referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
+ &lt;/div>
+ &lt;div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full ">
+ &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/3CZvTzy0sxc" title="YouTube video player" frameborder="0"
+ class="w-full h-full rounded-lg col-span-2"
+ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+ referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
+ &lt;/div>
+&lt;/div>
+
+&lt;hr>
+&lt;h2 id="youtube">Youtube&lt;/h2>
+
+
+&lt;div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-8">
+ &lt;div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full ">
+ &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gQMMLKp_oJw?si=ID5HV2sA0aG7pBRz" title="YouTube video player" frameborder="0"
+ class="w-full h-full rounded-lg "
+ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+ referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
+ &lt;/div>
+ &lt;div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full ">
+ &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/UXr6Bv8L30o?si=H539AljUkKN7ysaA" title="YouTube video player" frameborder="0"
+ class="w-full h-full rounded-lg "
+ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+ referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
+ &lt;/div>
+&lt;/div></description><content:encoded><![CDATA[<h2 id="photography-portfolio">Photography Portfolio</h2>
 <nav id="TableOfContents">
   <ul>
     <li><a href="#photography-portfolio">Photography Portfolio</a>
@@ -1240,187 +1502,258 @@
 
 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
   
-  <div class="instagram-embed">
-    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/B1ZfPCPnp8E/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px rgba(0,0,0,0.5),0 1px 10px rgba(0,0,0,0.15); margin:1px; max-width:540px; min-width:326px; padding:0; width:100%;">
-      <div style="padding:16px;">
-        <a href="https://www.instagram.com/p/B1ZfPCPnp8E/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="text-decoration:none; color:inherit;">
-          
-          
-        </a>
-      </div>
-      <p style="text-align:center;">
-        <a href="https://www.instagram.com/p/B1ZfPCPnp8E/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="color:#c9c8cd; text-decoration:none;">View this post on Instagram</a>
-      </p>
-    </blockquote>
-    <script async src="https://www.instagram.com/embed.js"></script>
-  </div>
+  <blockquote 
+    class="instagram-media" 
+    data-instgrm-captioned 
+    data-instgrm-permalink="https://www.instagram.com/p/B1ZfPCPnp8E/?utm_source=ig_embed&amp;utm_campaign=loading"
+    data-instgrm-version="14" 
+    style="
+      background:#FFF; 
+      border:0; 
+      border-radius:3px; 
+      box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); 
+      margin:1px; 
+      max-width:540px; 
+      min-width:326px; 
+      padding:0; 
+      width:99.375%; 
+      width:-webkit-calc(100% - 2px); 
+      width:calc(100% - 2px);
+    "
+  >
+    
+  </blockquote>
+  <script async src="//www.instagram.com/embed.js"></script>
   
-  <div class="instagram-embed">
-    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/B3m_BqxHehe/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px rgba(0,0,0,0.5),0 1px 10px rgba(0,0,0,0.15); margin:1px; max-width:540px; min-width:326px; padding:0; width:100%;">
-      <div style="padding:16px;">
-        <a href="https://www.instagram.com/p/B3m_BqxHehe/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="text-decoration:none; color:inherit;">
-          
-          
-        </a>
-      </div>
-      <p style="text-align:center;">
-        <a href="https://www.instagram.com/p/B3m_BqxHehe/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="color:#c9c8cd; text-decoration:none;">View this post on Instagram</a>
-      </p>
-    </blockquote>
-    <script async src="https://www.instagram.com/embed.js"></script>
-  </div>
+  <blockquote 
+    class="instagram-media" 
+    data-instgrm-captioned 
+    data-instgrm-permalink="https://www.instagram.com/p/B3m_BqxHehe/?utm_source=ig_embed&amp;utm_campaign=loading"
+    data-instgrm-version="14" 
+    style="
+      background:#FFF; 
+      border:0; 
+      border-radius:3px; 
+      box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); 
+      margin:1px; 
+      max-width:540px; 
+      min-width:326px; 
+      padding:0; 
+      width:99.375%; 
+      width:-webkit-calc(100% - 2px); 
+      width:calc(100% - 2px);
+    "
+  >
+    
+  </blockquote>
+  <script async src="//www.instagram.com/embed.js"></script>
   
-  <div class="instagram-embed">
-    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/BjCszpxAXoF/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px rgba(0,0,0,0.5),0 1px 10px rgba(0,0,0,0.15); margin:1px; max-width:540px; min-width:326px; padding:0; width:100%;">
-      <div style="padding:16px;">
-        <a href="https://www.instagram.com/p/BjCszpxAXoF/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="text-decoration:none; color:inherit;">
-          
-          
-        </a>
-      </div>
-      <p style="text-align:center;">
-        <a href="https://www.instagram.com/p/BjCszpxAXoF/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="color:#c9c8cd; text-decoration:none;">View this post on Instagram</a>
-      </p>
-    </blockquote>
-    <script async src="https://www.instagram.com/embed.js"></script>
-  </div>
+  <blockquote 
+    class="instagram-media" 
+    data-instgrm-captioned 
+    data-instgrm-permalink="https://www.instagram.com/p/BjCszpxAXoF/?utm_source=ig_embed&amp;utm_campaign=loading"
+    data-instgrm-version="14" 
+    style="
+      background:#FFF; 
+      border:0; 
+      border-radius:3px; 
+      box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); 
+      margin:1px; 
+      max-width:540px; 
+      min-width:326px; 
+      padding:0; 
+      width:99.375%; 
+      width:-webkit-calc(100% - 2px); 
+      width:calc(100% - 2px);
+    "
+  >
+    
+  </blockquote>
+  <script async src="//www.instagram.com/embed.js"></script>
   
-  <div class="instagram-embed">
-    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/BpiKo_nHLxP/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px rgba(0,0,0,0.5),0 1px 10px rgba(0,0,0,0.15); margin:1px; max-width:540px; min-width:326px; padding:0; width:100%;">
-      <div style="padding:16px;">
-        <a href="https://www.instagram.com/p/BpiKo_nHLxP/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="text-decoration:none; color:inherit;">
-          
-          
-        </a>
-      </div>
-      <p style="text-align:center;">
-        <a href="https://www.instagram.com/p/BpiKo_nHLxP/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="color:#c9c8cd; text-decoration:none;">View this post on Instagram</a>
-      </p>
-    </blockquote>
-    <script async src="https://www.instagram.com/embed.js"></script>
-  </div>
+  <blockquote 
+    class="instagram-media" 
+    data-instgrm-captioned 
+    data-instgrm-permalink="https://www.instagram.com/p/BpiKo_nHLxP/?utm_source=ig_embed&amp;utm_campaign=loading"
+    data-instgrm-version="14" 
+    style="
+      background:#FFF; 
+      border:0; 
+      border-radius:3px; 
+      box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); 
+      margin:1px; 
+      max-width:540px; 
+      min-width:326px; 
+      padding:0; 
+      width:99.375%; 
+      width:-webkit-calc(100% - 2px); 
+      width:calc(100% - 2px);
+    "
+  >
+    
+  </blockquote>
+  <script async src="//www.instagram.com/embed.js"></script>
   
-  <div class="instagram-embed">
-    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/Bw2G7TlHFmg/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px rgba(0,0,0,0.5),0 1px 10px rgba(0,0,0,0.15); margin:1px; max-width:540px; min-width:326px; padding:0; width:100%;">
-      <div style="padding:16px;">
-        <a href="https://www.instagram.com/p/Bw2G7TlHFmg/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="text-decoration:none; color:inherit;">
-          
-          
-        </a>
-      </div>
-      <p style="text-align:center;">
-        <a href="https://www.instagram.com/p/Bw2G7TlHFmg/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="color:#c9c8cd; text-decoration:none;">View this post on Instagram</a>
-      </p>
-    </blockquote>
-    <script async src="https://www.instagram.com/embed.js"></script>
-  </div>
+  <blockquote 
+    class="instagram-media" 
+    data-instgrm-captioned 
+    data-instgrm-permalink="https://www.instagram.com/p/Bw2G7TlHFmg/?utm_source=ig_embed&amp;utm_campaign=loading"
+    data-instgrm-version="14" 
+    style="
+      background:#FFF; 
+      border:0; 
+      border-radius:3px; 
+      box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); 
+      margin:1px; 
+      max-width:540px; 
+      min-width:326px; 
+      padding:0; 
+      width:99.375%; 
+      width:-webkit-calc(100% - 2px); 
+      width:calc(100% - 2px);
+    "
+  >
+    
+  </blockquote>
+  <script async src="//www.instagram.com/embed.js"></script>
   
-  <div class="instagram-embed">
-    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/BtwhKFKHn4t/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px rgba(0,0,0,0.5),0 1px 10px rgba(0,0,0,0.15); margin:1px; max-width:540px; min-width:326px; padding:0; width:100%;">
-      <div style="padding:16px;">
-        <a href="https://www.instagram.com/p/BtwhKFKHn4t/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="text-decoration:none; color:inherit;">
-          
-          
-        </a>
-      </div>
-      <p style="text-align:center;">
-        <a href="https://www.instagram.com/p/BtwhKFKHn4t/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="color:#c9c8cd; text-decoration:none;">View this post on Instagram</a>
-      </p>
-    </blockquote>
-    <script async src="https://www.instagram.com/embed.js"></script>
-  </div>
+  <blockquote 
+    class="instagram-media" 
+    data-instgrm-captioned 
+    data-instgrm-permalink="https://www.instagram.com/p/BtwhKFKHn4t/?utm_source=ig_embed&amp;utm_campaign=loading"
+    data-instgrm-version="14" 
+    style="
+      background:#FFF; 
+      border:0; 
+      border-radius:3px; 
+      box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); 
+      margin:1px; 
+      max-width:540px; 
+      min-width:326px; 
+      padding:0; 
+      width:99.375%; 
+      width:-webkit-calc(100% - 2px); 
+      width:calc(100% - 2px);
+    "
+  >
+    
+  </blockquote>
+  <script async src="//www.instagram.com/embed.js"></script>
   
-  <div class="instagram-embed">
-    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/B3vGAp2nDfL/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px rgba(0,0,0,0.5),0 1px 10px rgba(0,0,0,0.15); margin:1px; max-width:540px; min-width:326px; padding:0; width:100%;">
-      <div style="padding:16px;">
-        <a href="https://www.instagram.com/p/B3vGAp2nDfL/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="text-decoration:none; color:inherit;">
-          
-          
-        </a>
-      </div>
-      <p style="text-align:center;">
-        <a href="https://www.instagram.com/p/B3vGAp2nDfL/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="color:#c9c8cd; text-decoration:none;">View this post on Instagram</a>
-      </p>
-    </blockquote>
-    <script async src="https://www.instagram.com/embed.js"></script>
-  </div>
+  <blockquote 
+    class="instagram-media" 
+    data-instgrm-captioned 
+    data-instgrm-permalink="https://www.instagram.com/p/B3vGAp2nDfL/?utm_source=ig_embed&amp;utm_campaign=loading"
+    data-instgrm-version="14" 
+    style="
+      background:#FFF; 
+      border:0; 
+      border-radius:3px; 
+      box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); 
+      margin:1px; 
+      max-width:540px; 
+      min-width:326px; 
+      padding:0; 
+      width:99.375%; 
+      width:-webkit-calc(100% - 2px); 
+      width:calc(100% - 2px);
+    "
+  >
+    
+  </blockquote>
+  <script async src="//www.instagram.com/embed.js"></script>
   
-  <div class="instagram-embed">
-    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/B4NDZlSHWEq/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px rgba(0,0,0,0.5),0 1px 10px rgba(0,0,0,0.15); margin:1px; max-width:540px; min-width:326px; padding:0; width:100%;">
-      <div style="padding:16px;">
-        <a href="https://www.instagram.com/p/B4NDZlSHWEq/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="text-decoration:none; color:inherit;">
-          
-          
-        </a>
-      </div>
-      <p style="text-align:center;">
-        <a href="https://www.instagram.com/p/B4NDZlSHWEq/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="color:#c9c8cd; text-decoration:none;">View this post on Instagram</a>
-      </p>
-    </blockquote>
-    <script async src="https://www.instagram.com/embed.js"></script>
-  </div>
+  <blockquote 
+    class="instagram-media" 
+    data-instgrm-captioned 
+    data-instgrm-permalink="https://www.instagram.com/p/B4NDZlSHWEq/?utm_source=ig_embed&amp;utm_campaign=loading"
+    data-instgrm-version="14" 
+    style="
+      background:#FFF; 
+      border:0; 
+      border-radius:3px; 
+      box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); 
+      margin:1px; 
+      max-width:540px; 
+      min-width:326px; 
+      padding:0; 
+      width:99.375%; 
+      width:-webkit-calc(100% - 2px); 
+      width:calc(100% - 2px);
+    "
+  >
+    
+  </blockquote>
+  <script async src="//www.instagram.com/embed.js"></script>
   
-  <div class="instagram-embed">
-    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/B4k8VB7nR5m/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px rgba(0,0,0,0.5),0 1px 10px rgba(0,0,0,0.15); margin:1px; max-width:540px; min-width:326px; padding:0; width:100%;">
-      <div style="padding:16px;">
-        <a href="https://www.instagram.com/p/B4k8VB7nR5m/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="text-decoration:none; color:inherit;">
-          
-          
-        </a>
-      </div>
-      <p style="text-align:center;">
-        <a href="https://www.instagram.com/p/B4k8VB7nR5m/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="color:#c9c8cd; text-decoration:none;">View this post on Instagram</a>
-      </p>
-    </blockquote>
-    <script async src="https://www.instagram.com/embed.js"></script>
-  </div>
+  <blockquote 
+    class="instagram-media" 
+    data-instgrm-captioned 
+    data-instgrm-permalink="https://www.instagram.com/p/B4k8VB7nR5m/?utm_source=ig_embed&amp;utm_campaign=loading"
+    data-instgrm-version="14" 
+    style="
+      background:#FFF; 
+      border:0; 
+      border-radius:3px; 
+      box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); 
+      margin:1px; 
+      max-width:540px; 
+      min-width:326px; 
+      padding:0; 
+      width:99.375%; 
+      width:-webkit-calc(100% - 2px); 
+      width:calc(100% - 2px);
+    "
+  >
+    
+  </blockquote>
+  <script async src="//www.instagram.com/embed.js"></script>
   
-  <div class="instagram-embed">
-    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/B8tkHPSHK6m/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px rgba(0,0,0,0.5),0 1px 10px rgba(0,0,0,0.15); margin:1px; max-width:540px; min-width:326px; padding:0; width:100%;">
-      <div style="padding:16px;">
-        <a href="https://www.instagram.com/p/B8tkHPSHK6m/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="text-decoration:none; color:inherit;">
-          
-          
-        </a>
-      </div>
-      <p style="text-align:center;">
-        <a href="https://www.instagram.com/p/B8tkHPSHK6m/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="color:#c9c8cd; text-decoration:none;">View this post on Instagram</a>
-      </p>
-    </blockquote>
-    <script async src="https://www.instagram.com/embed.js"></script>
-  </div>
+  <blockquote 
+    class="instagram-media" 
+    data-instgrm-captioned 
+    data-instgrm-permalink="https://www.instagram.com/p/B8tkHPSHK6m/?utm_source=ig_embed&amp;utm_campaign=loading"
+    data-instgrm-version="14" 
+    style="
+      background:#FFF; 
+      border:0; 
+      border-radius:3px; 
+      box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); 
+      margin:1px; 
+      max-width:540px; 
+      min-width:326px; 
+      padding:0; 
+      width:99.375%; 
+      width:-webkit-calc(100% - 2px); 
+      width:calc(100% - 2px);
+    "
+  >
+    
+  </blockquote>
+  <script async src="//www.instagram.com/embed.js"></script>
 </div>
 
 <h3 id="videos">Videos</h3>
 
 
 <div class="grid grid-cols-2 sm:grid-cols-2 gap-4 mt-8">
-  <div class="youtube-embed w-full aspect-video rounded-lg shadow-lg ">
-    <iframe 
-      src="https://www.youtube.com/embed/f_BjD5wQes0"
-      frameborder="0" 
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-      allowfullscreen
+  <div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full ">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/f_BjD5wQes0" title="YouTube video player" frameborder="0"
       class="w-full h-full rounded-lg "
-    ></iframe>
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
-  <div class="youtube-embed w-full aspect-video rounded-lg shadow-lg ">
-    <iframe 
-      src="https://www.youtube.com/embed/MPlXC4Rvdqs"
-      frameborder="0" 
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-      allowfullscreen
+  <div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full ">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/MPlXC4Rvdqs" title="YouTube video player" frameborder="0"
       class="w-full h-full rounded-lg "
-    ></iframe>
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
-  <div class="youtube-embed w-full aspect-video rounded-lg shadow-lg col-span-2">
-    <iframe 
-      src="https://www.youtube.com/embed/3CZvTzy0sxc"
-      frameborder="0" 
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-      allowfullscreen
+  <div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full ">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/3CZvTzy0sxc" title="YouTube video player" frameborder="0"
       class="w-full h-full rounded-lg col-span-2"
-    ></iframe>
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
 </div>
 
@@ -1429,23 +1762,17 @@
 
 
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-8">
-  <div class="youtube-embed w-full aspect-video rounded-lg shadow-lg ">
-    <iframe 
-      src="https://www.youtube.com/embed/gQMMLKp_oJw?si=ID5HV2sA0aG7pBRz"
-      frameborder="0" 
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-      allowfullscreen
+  <div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full ">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/gQMMLKp_oJw?si=ID5HV2sA0aG7pBRz" title="YouTube video player" frameborder="0"
       class="w-full h-full rounded-lg "
-    ></iframe>
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
-  <div class="youtube-embed w-full aspect-video rounded-lg shadow-lg ">
-    <iframe 
-      src="https://www.youtube.com/embed/UXr6Bv8L30o?si=H539AljUkKN7ysaA"
-      frameborder="0" 
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-      allowfullscreen
+  <div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full ">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/UXr6Bv8L30o?si=H539AljUkKN7ysaA" title="YouTube video player" frameborder="0"
       class="w-full h-full rounded-lg "
-    ></iframe>
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
 </div>
 
@@ -1456,26 +1783,20 @@
 &lt;/a>&lt;/h2>
 
 
-&lt;div class="youtube-embed w-full aspect-video rounded-lg shadow-lg py-4">
- &lt;iframe 
- src="https://www.youtube.com/embed/gQMMLKp_oJw?si=ID5HV2sA0aG7pBRz"
- frameborder="0" 
- allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
- allowfullscreen
+&lt;div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full ">
+ &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gQMMLKp_oJw?si=ID5HV2sA0aG7pBRz" title="YouTube video player" frameborder="0"
  class="w-full h-full rounded-lg py-4"
- >&lt;/iframe>
+ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+ referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
 &lt;/div>
 
 
 
-&lt;div class="youtube-embed w-full aspect-video rounded-lg shadow-lg py-4">
- &lt;iframe 
- src="https://www.youtube.com/embed/UXr6Bv8L30o?si=H539AljUkKN7ysaA"
- frameborder="0" 
- allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
- allowfullscreen
+&lt;div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full ">
+ &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/UXr6Bv8L30o?si=H539AljUkKN7ysaA" title="YouTube video player" frameborder="0"
  class="w-full h-full rounded-lg py-4"
- >&lt;/iframe>
+ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+ referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
 &lt;/div></description><content:encoded><![CDATA[<h2 id="youtube---sozodennishttpswwwyoutubecomsozodennis5316">Youtube - <a href="https://www.youtube.com/@sozodennis5316"
    
     target="_blank" rel="noopener noreferrer">
@@ -1483,26 +1804,20 @@
 </a></h2>
 
 
-<div class="youtube-embed w-full aspect-video rounded-lg shadow-lg py-4">
-  <iframe 
-    src="https://www.youtube.com/embed/gQMMLKp_oJw?si=ID5HV2sA0aG7pBRz"
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen
+<div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full ">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/gQMMLKp_oJw?si=ID5HV2sA0aG7pBRz" title="YouTube video player" frameborder="0"
     class="w-full h-full rounded-lg py-4"
-  ></iframe>
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 
 
-<div class="youtube-embed w-full aspect-video rounded-lg shadow-lg py-4">
-  <iframe 
-    src="https://www.youtube.com/embed/UXr6Bv8L30o?si=H539AljUkKN7ysaA"
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen
+<div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full ">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/UXr6Bv8L30o?si=H539AljUkKN7ysaA" title="YouTube video player" frameborder="0"
     class="w-full h-full rounded-lg py-4"
-  ></iframe>
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ]]></content:encoded></item><item><title>Respondus LockDown Browser Does Not Like Virtual Desktop</title><link>https://www.sozodennis.com/posts/virtualdesktop-stop-script/</link><pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate><author>dennis.sarsozo@gmail.com (Dennis Sarsozo)</author><guid>https://www.sozodennis.com/posts/virtualdesktop-stop-script/</guid><description>&lt;h2 id="respondus-lockdown-browser-does-not-like-virtual-desktop">Respondus LockDown Browser Does Not Like Virtual Desktop&lt;/h2>

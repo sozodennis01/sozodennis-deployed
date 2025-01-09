@@ -875,7 +875,7 @@
  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
  &lt;/div>
- &lt;div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full ">
+ &lt;div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full col-span-2">
  &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/3CZvTzy0sxc" title="YouTube video player" frameborder="0"
  class="w-full h-full rounded-lg col-span-2"
  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -1749,7 +1749,7 @@
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
-  <div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full ">
+  <div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full col-span-2">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/3CZvTzy0sxc" title="YouTube video player" frameborder="0"
       class="w-full h-full rounded-lg col-span-2"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -1783,7 +1783,7 @@
 &lt;/a>&lt;/h2>
 
 
-&lt;div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full ">
+&lt;div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full py-4">
  &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gQMMLKp_oJw?si=ID5HV2sA0aG7pBRz" title="YouTube video player" frameborder="0"
  class="w-full h-full rounded-lg py-4"
  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -1792,7 +1792,7 @@
 
 
 
-&lt;div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full ">
+&lt;div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full py-4">
  &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/UXr6Bv8L30o?si=H539AljUkKN7ysaA" title="YouTube video player" frameborder="0"
  class="w-full h-full rounded-lg py-4"
  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -1804,7 +1804,7 @@
 </a></h2>
 
 
-<div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full ">
+<div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full py-4">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/gQMMLKp_oJw?si=ID5HV2sA0aG7pBRz" title="YouTube video player" frameborder="0"
     class="w-full h-full rounded-lg py-4"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -1813,7 +1813,7 @@
 
 
 
-<div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full ">
+<div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full py-4">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/UXr6Bv8L30o?si=H539AljUkKN7ysaA" title="YouTube video player" frameborder="0"
     class="w-full h-full rounded-lg py-4"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

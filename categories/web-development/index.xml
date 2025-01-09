@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Web Development on sozodennis</title><link>https://www.sozodennis.com/categories/web-development/</link><description>Recent content in Web Development on sozodennis</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dennis.sarsozo@gmail.com (Dennis Sarsozo)</managingEditor><webMaster>dennis.sarsozo@gmail.com (Dennis Sarsozo)</webMaster><copyright>Dennis Sarsozo (CC BY 4.0)</copyright><lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.sozodennis.com/categories/web-development/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post of 2025</title><link>https://www.sozodennis.com/posts/first_post_2025/</link><pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate><author>dennis.sarsozo@gmail.com (Dennis Sarsozo)</author><guid>https://www.sozodennis.com/posts/first_post_2025/</guid><description>&lt;h2 id="i-migrated-my-old-website-to-hugo">I migrated my old website to Hugo&lt;/h2>
+&lt;p>I decided this new years I would try out the concept &lt;strong>POSSE&lt;/strong>, an abbreviation for &lt;strong>Publish (on your) Own Site, &lt;a href="https://indieweb.org/Category:syndication"
+ title="Category:syndication"
+ target="_blank" rel="noopener noreferrer">
+ Syndicate
+&lt;/a> Elsewhere&lt;/strong>.&lt;/p>
+&lt;p>Its funny, I tried using Gatsby and NextJS and never really got anywhere. Its crazy how with Chatgpt and LLMs&amp;hellip; I&amp;rsquo;m actually able to knock out some projects/demos in a day.&lt;/p>
+&lt;p>Anyways the hard part was retooling the Hugo theme and figuring out all the syntax. I&amp;rsquo;m glad that Hugo can resize images on the fly.&lt;/p></description><content:encoded><![CDATA[<h2 id="i-migrated-my-old-website-to-hugo">I migrated my old website to Hugo</h2>
+<p>I decided this new years I would try out the concept <strong>POSSE</strong>, an abbreviation for <strong>Publish (on your) Own Site, <a href="https://indieweb.org/Category:syndication"
+    title="Category:syndication"
+    target="_blank" rel="noopener noreferrer">
+   Syndicate
+</a> Elsewhere</strong>.</p>
+<p>Its funny, I tried using Gatsby and NextJS and never really got anywhere. Its crazy how with Chatgpt and LLMs&hellip; I&rsquo;m actually able to knock out some projects/demos in a day.</p>
+<p>Anyways the hard part was retooling the Hugo theme and figuring out all the syntax. I&rsquo;m glad that Hugo can resize images on the fly.</p>
+<p>Now I&rsquo;ll start on posting my Refreshes here.</p>
+]]></content:encoded></item></channel></rss>

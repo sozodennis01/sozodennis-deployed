@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tips on sozodennis</title><link>https://www.sozodennis.com/tags/tips/</link><description>Recent content in Tips on sozodennis</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dennis.sarsozo@gmail.com (Dennis Sarsozo)</managingEditor><webMaster>dennis.sarsozo@gmail.com (Dennis Sarsozo)</webMaster><copyright>Dennis Sarsozo (CC BY 4.0)</copyright><lastBuildDate>Mon, 08 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.sozodennis.com/tags/tips/index.xml" rel="self" type="application/rss+xml"/><item><title>Respondus LockDown Browser Does Not Like Virtual Desktop</title><link>https://www.sozodennis.com/posts/virtualdesktop-stop-script/</link><pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate><author>dennis.sarsozo@gmail.com (Dennis Sarsozo)</author><guid>https://www.sozodennis.com/posts/virtualdesktop-stop-script/</guid><description>&lt;h2 id="respondus-lockdown-browser-does-not-like-virtual-desktop">Respondus LockDown Browser Does Not Like Virtual Desktop&lt;/h2>
+&lt;p>&lt;strong>Date:&lt;/strong> 02/08/2021&lt;/p>
+&lt;p>If you&amp;rsquo;re in college in 2020-2021, you probably had to use Respondus LockDown for one of your online classes. Usually, Respondus does a good job of notifying you when it doesn&amp;rsquo;t like a program, then &lt;strong>closes it for you.&lt;/strong>&lt;/p>
+&lt;p>Not for Virtual Desktop, though. It will notify you, but simply leave it running, making &lt;strong>you close it yourself.&lt;/strong>&lt;/p>
+&lt;p>&lt;img src="https://www.sozodennis.com/blog/virtualdesktop-stop-script/respondus-virtualdesktop-screenshot.jpg" alt="Respondus LockDown Virtual Desktop Service Notification">&lt;/p></description><content:encoded><![CDATA[<h2 id="respondus-lockdown-browser-does-not-like-virtual-desktop">Respondus LockDown Browser Does Not Like Virtual Desktop</h2>
+<p><strong>Date:</strong> 02/08/2021</p>
+<p>If you&rsquo;re in college in 2020-2021, you probably had to use Respondus LockDown for one of your online classes. Usually, Respondus does a good job of notifying you when it doesn&rsquo;t like a program, then <strong>closes it for you.</strong></p>
+<p>Not for Virtual Desktop, though. It will notify you, but simply leave it running, making <strong>you close it yourself.</strong></p>
+<p><img src="/blog/virtualdesktop-stop-script/respondus-virtualdesktop-screenshot.jpg" alt="Respondus LockDown Virtual Desktop Service Notification"></p>
+<p><em>Extremely annoying when you have to finish a quiz in&hellip; 3 minutes 🤡</em></p>
+<hr>
+<h2 id="solution-use-a-bat-script">Solution? Use a BAT Script</h2>
+<p>Manually, you had to search for <code>VirtualDesktop.Streamer.exe</code> and <code>VirtualDesktop.Service.exe</code> via Task Manager, then close them. Since we <strong>love automation</strong>, I made a BAT script to automate closing Virtual Desktop!</p>
+<h3 id="steps-to-create-the-script">Steps to Create the Script</h3>
+<ol>
+<li>
+<p>Open <strong>Notepad</strong>.</p>
+</li>
+<li>
+<p>Paste the following commands into Notepad:</p>
+
+
+
+
+
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bat" data-lang="bat"><span class="line"><span class="ln">1</span><span class="cl">taskkill /F /IM VirtualDesktop.Streamer.exe
+</span></span><span class="line"><span class="ln">2</span><span class="cl">taskkill /F /IM VirtualDesktop.Service.exe</span></span></code></pre></div></li>
+<li>
+<p>Go to File &gt; Save As.</p>
+</li>
+<li>
+<p>Save the script as StopVirtualDesktopScript.bat.</p>
+<p>Ensure that you Save as type: All Files.</p>
+</li>
+<li>
+<p>Go to where you saved it, then run it as administrator!</p>
+</li>
+</ol>
+]]></content:encoded></item></channel></rss>

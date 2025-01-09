@@ -1,0 +1,1546 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>sozodennis</title><link>https://www.sozodennis.com/</link><description>Recent content on sozodennis</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dennis.sarsozo@gmail.com (Dennis Sarsozo)</managingEditor><webMaster>dennis.sarsozo@gmail.com (Dennis Sarsozo)</webMaster><copyright>Dennis Sarsozo (CC BY 4.0)</copyright><lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.sozodennis.com/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://www.sozodennis.com/about/</link><pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate><author>dennis.sarsozo@gmail.com (Dennis Sarsozo)</author><guid>https://www.sozodennis.com/about/</guid><description>&lt;h2 id="about-me">About Me&lt;/h2>
+&lt;p>Hi, I’m Dennis! I’m a Computer Engineering student at the University of Hawaii at Manoa and an AFROTC cadet working toward commissioning into the Space Force. I have a background in Business Information Technology and Computer Science, and I’m passionate about space operations, artificial intelligence, and building cool things with embedded systems.&lt;/p>
+&lt;p>When I’m not studying or in uniform, you’ll probably find me surfing the waves in Oahu, snapping photos, or making videos that capture the beauty of island life. I’m all about learning, staying active, and finding ways to make a positive impact in the world. Let’s build!&lt;/p></description><content:encoded><![CDATA[<h2 id="about-me">About Me</h2>
+<p>Hi, I’m Dennis! I’m a Computer Engineering student at the University of Hawaii at Manoa and an AFROTC cadet working toward commissioning into the Space Force. I have a background in Business Information Technology and Computer Science, and I’m passionate about space operations, artificial intelligence, and building cool things with embedded systems.</p>
+<p>When I’m not studying or in uniform, you’ll probably find me surfing the waves in Oahu, snapping photos, or making videos that capture the beauty of island life. I’m all about learning, staying active, and finding ways to make a positive impact in the world. Let’s build!</p>
+<p>Nerd fact: my first programming language was Visual Basic.</p>
+<hr>
+<h2 id="my-youtube-music-2024-recap">My Youtube Music 2024 Recap</h2>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=CVI2AdWofHWM-zRJ&amp;list=PL9mqt0W45QztamO2JGgsS2HWv3PgXmnEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+]]></content:encoded></item><item><title>My First Post of 2025</title><link>https://www.sozodennis.com/posts/first_post_2025/</link><pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate><author>dennis.sarsozo@gmail.com (Dennis Sarsozo)</author><guid>https://www.sozodennis.com/posts/first_post_2025/</guid><description>&lt;h2 id="i-migrated-my-old-website-to-hugo">I migrated my old website to Hugo&lt;/h2>
+&lt;p>I decided this new years I would try out the concept &lt;strong>POSSE&lt;/strong>, an abbreviation for &lt;strong>Publish (on your) Own Site, &lt;a href="https://indieweb.org/Category:syndication"
+ title="Category:syndication"
+ target="_blank" rel="noopener noreferrer">
+ Syndicate
+&lt;/a> Elsewhere&lt;/strong>.&lt;/p>
+&lt;p>Its funny, I tried using Gatsby and NextJS and never really got anywhere. Its crazy how with Chatgpt and LLMs&amp;hellip; I&amp;rsquo;m actually able to knock out some projects/demos in a day.&lt;/p>
+&lt;p>Anyways the hard part was retooling the Hugo theme and figuring out all the syntax. I&amp;rsquo;m glad that Hugo can resize images on the fly.&lt;/p></description><content:encoded><![CDATA[<h2 id="i-migrated-my-old-website-to-hugo">I migrated my old website to Hugo</h2>
+<p>I decided this new years I would try out the concept <strong>POSSE</strong>, an abbreviation for <strong>Publish (on your) Own Site, <a href="https://indieweb.org/Category:syndication"
+    title="Category:syndication"
+    target="_blank" rel="noopener noreferrer">
+   Syndicate
+</a> Elsewhere</strong>.</p>
+<p>Its funny, I tried using Gatsby and NextJS and never really got anywhere. Its crazy how with Chatgpt and LLMs&hellip; I&rsquo;m actually able to knock out some projects/demos in a day.</p>
+<p>Anyways the hard part was retooling the Hugo theme and figuring out all the syntax. I&rsquo;m glad that Hugo can resize images on the fly.</p>
+<p>Now I&rsquo;ll start on posting my Refreshes here.</p>
+]]></content:encoded></item><item><title>Photography Portfolio</title><link>https://www.sozodennis.com/photography/</link><pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate><author>dennis.sarsozo@gmail.com (Dennis Sarsozo)</author><guid>https://www.sozodennis.com/photography/</guid><description>&lt;h2 id="photography-portfolio">Photography Portfolio&lt;/h2>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>&lt;a href="#photography-portfolio">Photography Portfolio&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#photography-instagram-sozodennyhttpswwwinstagramcomsozodenny">Photography Instagram: &lt;a href="https://www.instagram.com/sozodenny">@sozodenny&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#portraits-90---1-hour-session-with-unlimited-photos">Portraits $90 - &lt;em>1 hour session with unlimited photos!&lt;/em>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#interested-contact-me-at-dennissarsozogmailcommailtodennissarsozogmailcom">Interested? Contact me at &lt;a href="mailto:dennis.sarsozo@gmail.com">dennis.sarsozo@gmail.com&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#nc-state-wellness-and-recreation-portfolio">NC State Wellness and Recreation Portfolio&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#videos">Videos&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#youtube">Youtube&lt;/a>&lt;/li>
+ &lt;/ul>
+&lt;/nav>
+
+&lt;h3 id="photography-instagram-sozodennyhttpswwwinstagramcomsozodenny">Photography Instagram: &lt;a href="https://www.instagram.com/sozodenny"
+ 
+ target="_blank" rel="noopener noreferrer">
+ @sozodenny
+&lt;/a>&lt;/h3>
+&lt;h3 id="portraits-90---1-hour-session-with-unlimited-photos">Portraits $90 - &lt;em>1 hour session with unlimited photos!&lt;/em>&lt;/h3>
+
+
+&lt;div class="grid grid-cols-3 gap-4">
+ &lt;div class="relative group preload lazy rounded">
+ &lt;picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;source srcset="https://www.sozodennis.com/photography/portraits/ShawnJoy-DSCF8482_hu7645985021473852467.jpg" type="image/webp">
+ 
+ 
+ &lt;a href="https://www.sozodennis.com/photography/portraits/ShawnJoy-DSCF8482.jpg" target="_blank" rel="noopener">
+ &lt;img
+ src="https://www.sozodennis.com/photography/portraits/ShawnJoy-DSCF8482_hu7645985021473852467.jpg"
+ alt="Couple Anniversary Photo Hawaii"
+ loading="lazy"
+ width="3840"
+ class="preload lazy rounded"
+ >
+ &lt;/a>
+ 
+ &lt;/picture>
+ &lt;/div>
+ &lt;div class="relative group preload lazy rounded">
+ &lt;picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;source srcset="https://www.sozodennis.com/photography/portraits/ShawnJoy-DSCF8620_hu11136595596978501156.jpg" type="image/webp">
+ 
+ 
+ &lt;a href="https://www.sozodennis.com/photography/portraits/ShawnJoy-DSCF8620.jpg" target="_blank" rel="noopener">
+ &lt;img
+ src="https://www.sozodennis.com/photography/portraits/ShawnJoy-DSCF8620_hu11136595596978501156.jpg"
+ alt="Couple Anniversary Photo Hawaii"
+ loading="lazy"
+ width="3840"
+ class="preload lazy rounded"
+ >
+ &lt;/a>
+ 
+ &lt;/picture>
+ &lt;/div>
+ &lt;div class="relative group preload lazy rounded">
+ &lt;picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;source srcset="https://www.sozodennis.com/photography/portraits/ShawnJoy-DSCF8475_hu3915939725724708887.jpg" type="image/webp">
+ 
+ 
+ &lt;a href="https://www.sozodennis.com/photography/portraits/ShawnJoy-DSCF8475.jpg" target="_blank" rel="noopener">
+ &lt;img
+ src="https://www.sozodennis.com/photography/portraits/ShawnJoy-DSCF8475_hu3915939725724708887.jpg"
+ alt="Couple Anniversary Photo Hawaii"
+ loading="lazy"
+ width="3840"
+ class="preload lazy rounded"
+ >
+ &lt;/a>
+ 
+ &lt;/picture>
+ &lt;/div>
+
+ &lt;div class="relative group col-span-3 lazy rounded">
+ &lt;picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;source srcset="https://www.sozodennis.com/photography/portraits/ShawnJoy-DSCF8601_hu9544632652465701957.jpg" type="image/webp">
+ 
+ 
+ &lt;a href="https://www.sozodennis.com/photography/portraits/ShawnJoy-DSCF8601.jpg" target="_blank" rel="noopener">
+ &lt;img
+ src="https://www.sozodennis.com/photography/portraits/ShawnJoy-DSCF8601_hu9544632652465701957.jpg"
+ alt="Couple Anniversary Photo Hawaii"
+ loading="lazy"
+ width="3840"
+ class="col-span-3 lazy rounded"
+ >
+ &lt;/a>
+ 
+ &lt;/picture>
+ &lt;/div>
+
+ &lt;div class="relative group col-span-3 lazy rounded">
+ &lt;picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;source srcset="https://www.sozodennis.com/photography/portraits/ShawnJoy-DSCF8608_hu8247080568830219039.jpg" type="image/webp">
+ 
+ 
+ &lt;a href="https://www.sozodennis.com/photography/portraits/ShawnJoy-DSCF8608.jpg" target="_blank" rel="noopener">
+ &lt;img
+ src="https://www.sozodennis.com/photography/portraits/ShawnJoy-DSCF8608_hu8247080568830219039.jpg"
+ alt="Couple Anniversary Photo Hawaii"
+ loading="lazy"
+ width="3840"
+ class="col-span-3 lazy rounded"
+ >
+ &lt;/a>
+ 
+ &lt;/picture>
+ &lt;/div>
+
+ &lt;div class="relative group lazy rounded">
+ &lt;picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;source srcset="https://www.sozodennis.com/photography/portraits/daron-grad_hu4321196416653328567.jpg" type="image/webp">
+ 
+ 
+ &lt;a href="https://www.sozodennis.com/photography/portraits/daron-grad.jpg" target="_blank" rel="noopener">
+ &lt;img
+ src="https://www.sozodennis.com/photography/portraits/daron-grad_hu4321196416653328567.jpg"
+ alt="Female Graduation Portrait"
+ loading="lazy"
+ width="3840"
+ class="lazy rounded"
+ >
+ &lt;/a>
+ 
+ &lt;/picture>
+ &lt;/div>
+ &lt;div class="relative group rounded">
+ &lt;picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;source srcset="https://www.sozodennis.com/photography/portraits/candid-grad_hu5282655559655652575.jpg" type="image/webp">
+ 
+ 
+ &lt;a href="https://www.sozodennis.com/photography/portraits/candid-grad.jpg" target="_blank" rel="noopener">
+ &lt;img
+ src="https://www.sozodennis.com/photography/portraits/candid-grad_hu5282655559655652575.jpg"
+ alt="2 Females Champagne Graduation Portrait"
+ loading="lazy"
+ width="3840"
+ class="rounded"
+ >
+ &lt;/a>
+ 
+ &lt;/picture>
+ &lt;/div>
+ &lt;div class="relative group rounded">
+ &lt;picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;source srcset="https://www.sozodennis.com/photography/portraits/anne-grad_hu4720246738187779405.jpg" type="image/webp">
+ 
+ 
+ &lt;a href="https://www.sozodennis.com/photography/portraits/anne-grad.jpg" target="_blank" rel="noopener">
+ &lt;img
+ src="https://www.sozodennis.com/photography/portraits/anne-grad_hu4720246738187779405.jpg"
+ alt="Female Graduation Portrait"
+ loading="lazy"
+ width="3840"
+ class="rounded"
+ >
+ &lt;/a>
+ 
+ &lt;/picture>
+ &lt;/div>
+ 
+ &lt;div class="relative group rounded">
+ &lt;picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;source srcset="https://www.sozodennis.com/photography/portraits/alan-grad_hu13018296588885207691.jpg" type="image/webp">
+ 
+ 
+ &lt;a href="https://www.sozodennis.com/photography/portraits/alan-grad.jpg" target="_blank" rel="noopener">
+ &lt;img
+ src="https://www.sozodennis.com/photography/portraits/alan-grad_hu13018296588885207691.jpg"
+ alt="Male Graduation Portrait"
+ loading="lazy"
+ width="3840"
+ class="rounded"
+ >
+ &lt;/a>
+ 
+ &lt;/picture>
+ &lt;/div>
+ &lt;div class="relative group rounded">
+ &lt;picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;source srcset="https://www.sozodennis.com/photography/portraits/hoa-grad_hu5880944747702454401.jpg" type="image/webp">
+ 
+ 
+ &lt;a href="https://www.sozodennis.com/photography/portraits/hoa-grad.jpg" target="_blank" rel="noopener">
+ &lt;img
+ src="https://www.sozodennis.com/photography/portraits/hoa-grad_hu5880944747702454401.jpg"
+ alt="Male Graduation Portrait"
+ loading="lazy"
+ width="3840"
+ class="rounded"
+ >
+ &lt;/a>
+ 
+ &lt;/picture>
+ &lt;/div>
+ &lt;div class="relative group rounded">
+ &lt;picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;source srcset="https://www.sozodennis.com/photography/portraits/zack-grad_hu11428692783339206124.jpg" type="image/webp">
+ 
+ 
+ &lt;a href="https://www.sozodennis.com/photography/portraits/zack-grad.jpg" target="_blank" rel="noopener">
+ &lt;img
+ src="https://www.sozodennis.com/photography/portraits/zack-grad_hu11428692783339206124.jpg"
+ alt="Male Graduation Portrait"
+ loading="lazy"
+ width="3840"
+ class="rounded"
+ >
+ &lt;/a>
+ 
+ &lt;/picture>
+ &lt;/div>
+ 
+ &lt;div class="relative group rounded">
+ &lt;picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;source srcset="https://www.sozodennis.com/photography/portraits/olicia-grad_hu3132556809010715888.jpg" type="image/webp">
+ 
+ 
+ &lt;a href="https://www.sozodennis.com/photography/portraits/olicia-grad.jpg" target="_blank" rel="noopener">
+ &lt;img
+ src="https://www.sozodennis.com/photography/portraits/olicia-grad_hu3132556809010715888.jpg"
+ alt="Female Graduation Portrait"
+ loading="lazy"
+ width="3840"
+ class="rounded"
+ >
+ &lt;/a>
+ 
+ &lt;/picture>
+ &lt;/div>
+ &lt;div class="relative group rounded">
+ &lt;picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;source srcset="https://www.sozodennis.com/photography/portraits/alex-grad_hu8705500887108056194.jpg" type="image/webp">
+ 
+ 
+ &lt;a href="https://www.sozodennis.com/photography/portraits/alex-grad.jpg" target="_blank" rel="noopener">
+ &lt;img
+ src="https://www.sozodennis.com/photography/portraits/alex-grad_hu8705500887108056194.jpg"
+ alt="Female Graduation Portrait"
+ loading="lazy"
+ width="3840"
+ class="rounded"
+ >
+ &lt;/a>
+ 
+ &lt;/picture>
+ &lt;/div>
+ &lt;div class="relative group rounded">
+ &lt;picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;source srcset="https://www.sozodennis.com/photography/portraits/nina-grad_hu2594987875656553196.jpg" type="image/webp">
+ 
+ 
+ &lt;a href="https://www.sozodennis.com/photography/portraits/nina-grad.jpg" target="_blank" rel="noopener">
+ &lt;img
+ src="https://www.sozodennis.com/photography/portraits/nina-grad_hu2594987875656553196.jpg"
+ alt="Female Graduation Portrait"
+ loading="lazy"
+ width="3840"
+ class="rounded"
+ >
+ &lt;/a>
+ 
+ &lt;/picture>
+ &lt;/div>
+ 
+ &lt;div class="relative group rounded">
+ &lt;picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;source srcset="https://www.sozodennis.com/photography/portraits/cono-portrait_hu3710067510543704127.jpg" type="image/webp">
+ 
+ 
+ &lt;a href="https://www.sozodennis.com/photography/portraits/cono-portrait.jpg" target="_blank" rel="noopener">
+ &lt;img
+ src="https://www.sozodennis.com/photography/portraits/cono-portrait_hu3710067510543704127.jpg"
+ alt="Male Portrait"
+ loading="lazy"
+ width="3840"
+ class="rounded"
+ >
+ &lt;/a>
+ 
+ &lt;/picture>
+ &lt;/div>
+ &lt;div class="relative group rounded">
+ &lt;picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;source srcset="https://www.sozodennis.com/photography/portraits/sam-linkedin_hu2425272502283760601.jpg" type="image/webp">
+ 
+ 
+ &lt;a href="https://www.sozodennis.com/photography/portraits/sam-linkedin.jpg" target="_blank" rel="noopener">
+ &lt;img
+ src="https://www.sozodennis.com/photography/portraits/sam-linkedin_hu2425272502283760601.jpg"
+ alt="Male Portrait"
+ loading="lazy"
+ width="3840"
+ class="rounded"
+ >
+ &lt;/a>
+ 
+ &lt;/picture>
+ &lt;/div>
+ &lt;div class="relative group rounded">
+ &lt;picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;source srcset="https://www.sozodennis.com/photography/portraits/adam-linkedin_hu15017581246026925376.jpg" type="image/webp">
+ 
+ 
+ &lt;a href="https://www.sozodennis.com/photography/portraits/adam-linkedin.jpg" target="_blank" rel="noopener">
+ &lt;img
+ src="https://www.sozodennis.com/photography/portraits/adam-linkedin_hu15017581246026925376.jpg"
+ alt="Male Portrait"
+ loading="lazy"
+ width="3840"
+ class="rounded"
+ >
+ &lt;/a>
+ 
+ &lt;/picture>
+ &lt;/div>
+ 
+ &lt;div class="relative group rounded">
+ &lt;picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;source srcset="https://www.sozodennis.com/photography/portraits/DanielPortrait-web-1_hu9106170374647466084.jpg" type="image/webp">
+ 
+ 
+ &lt;a href="https://www.sozodennis.com/photography/portraits/DanielPortrait-web-1.jpg" target="_blank" rel="noopener">
+ &lt;img
+ src="https://www.sozodennis.com/photography/portraits/DanielPortrait-web-1_hu9106170374647466084.jpg"
+ alt="Male Portrait"
+ loading="lazy"
+ width="3840"
+ class="rounded"
+ >
+ &lt;/a>
+ 
+ &lt;/picture>
+ &lt;/div>
+ &lt;div class="relative group rounded">
+ &lt;picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;source srcset="https://www.sozodennis.com/photography/portraits/DanielPortrait-web-2_hu13906196819098482853.jpg" type="image/webp">
+ 
+ 
+ &lt;a href="https://www.sozodennis.com/photography/portraits/DanielPortrait-web-2.jpg" target="_blank" rel="noopener">
+ &lt;img
+ src="https://www.sozodennis.com/photography/portraits/DanielPortrait-web-2_hu13906196819098482853.jpg"
+ alt="Male Portrait"
+ loading="lazy"
+ width="3840"
+ class="rounded"
+ >
+ &lt;/a>
+ 
+ &lt;/picture>
+ &lt;/div>
+ &lt;div class="relative group rounded">
+ &lt;picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;source srcset="https://www.sozodennis.com/photography/portraits/DanielPortrait-web-3_hu17166606809585693049.jpg" type="image/webp">
+ 
+ 
+ &lt;a href="https://www.sozodennis.com/photography/portraits/DanielPortrait-web-3.jpg" target="_blank" rel="noopener">
+ &lt;img
+ src="https://www.sozodennis.com/photography/portraits/DanielPortrait-web-3_hu17166606809585693049.jpg"
+ alt="Male Portrait"
+ loading="lazy"
+ width="3840"
+ class="rounded"
+ >
+ &lt;/a>
+ 
+ &lt;/picture>
+ &lt;/div>
+ 
+ &lt;div class="relative group rounded">
+ &lt;picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;source srcset="https://www.sozodennis.com/photography/portraits/dad-face-left_hu5816096809442085454.jpg" type="image/webp">
+ 
+ 
+ &lt;a href="https://www.sozodennis.com/photography/portraits/dad-face-left.jpg" target="_blank" rel="noopener">
+ &lt;img
+ src="https://www.sozodennis.com/photography/portraits/dad-face-left_hu5816096809442085454.jpg"
+ alt="Male Portrait"
+ loading="lazy"
+ width="3840"
+ class="rounded"
+ >
+ &lt;/a>
+ 
+ &lt;/picture>
+ &lt;/div>
+ &lt;div class="relative group rounded">
+ &lt;picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;source srcset="https://www.sozodennis.com/photography/portraits/dad-face-on_hu14399204531522515438.jpg" type="image/webp">
+ 
+ 
+ &lt;a href="https://www.sozodennis.com/photography/portraits/dad-face-on.jpg" target="_blank" rel="noopener">
+ &lt;img
+ src="https://www.sozodennis.com/photography/portraits/dad-face-on_hu14399204531522515438.jpg"
+ alt="Male Portrait"
+ loading="lazy"
+ width="3840"
+ class="rounded"
+ >
+ &lt;/a>
+ 
+ &lt;/picture>
+ &lt;/div>
+ &lt;div class="relative group rounded">
+ &lt;picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;source srcset="https://www.sozodennis.com/photography/portraits/dad-face-right_hu6018342416204561408.jpg" type="image/webp">
+ 
+ 
+ &lt;a href="https://www.sozodennis.com/photography/portraits/dad-face-right.jpg" target="_blank" rel="noopener">
+ &lt;img
+ src="https://www.sozodennis.com/photography/portraits/dad-face-right_hu6018342416204561408.jpg"
+ alt="Male Portrait"
+ loading="lazy"
+ width="3840"
+ class="rounded"
+ >
+ &lt;/a>
+ 
+ &lt;/picture>
+ &lt;/div>
+
+ &lt;div class="relative group col-span-3 rounded">
+ &lt;picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;source srcset="https://www.sozodennis.com/photography/portraits/duncan-guitar_hu6389143722601387685.jpg" type="image/webp">
+ 
+ 
+ &lt;a href="https://www.sozodennis.com/photography/portraits/duncan-guitar.jpg" target="_blank" rel="noopener">
+ &lt;img
+ src="https://www.sozodennis.com/photography/portraits/duncan-guitar_hu6389143722601387685.jpg"
+ alt="Man playing guitar portrait"
+ loading="lazy"
+ width="3840"
+ class="col-span-3 rounded"
+ >
+ &lt;/a>
+ 
+ &lt;/picture>
+ &lt;/div>
+&lt;/div>
+
+&lt;h3 id="interested-contact-me-at-dennissarsozogmailcommailtodennissarsozogmailcom">Interested? Contact me at &lt;a href="mailto:dennis.sarsozo@gmail.com"
+ 
+ >
+ dennis.sarsozo@gmail.com
+&lt;/a>&lt;/h3>
+&lt;hr>
+&lt;h2 id="nc-state-wellness-and-recreation-portfolio">NC State Wellness and Recreation Portfolio&lt;/h2>
+
+
+&lt;div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+ 
+ &lt;div class="instagram-embed">
+ &lt;blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/B1ZfPCPnp8E/?utm_source=ig_embed&amp;amp;utm_campaign=loading" data-instgrm-version="13" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px rgba(0,0,0,0.5),0 1px 10px rgba(0,0,0,0.15); margin:1px; max-width:540px; min-width:326px; padding:0; width:100%;">
+ &lt;div style="padding:16px;">
+ &lt;a href="https://www.instagram.com/p/B1ZfPCPnp8E/?utm_source=ig_embed&amp;amp;utm_campaign=loading" target="_blank" style="text-decoration:none; color:inherit;">
+ 
+ 
+ &lt;/a>
+ &lt;/div>
+ &lt;p style="text-align:center;">
+ &lt;a href="https://www.instagram.com/p/B1ZfPCPnp8E/?utm_source=ig_embed&amp;amp;utm_campaign=loading" target="_blank" style="color:#c9c8cd; text-decoration:none;">View this post on Instagram&lt;/a>
+ &lt;/p></description><content:encoded><![CDATA[<h2 id="photography-portfolio">Photography Portfolio</h2>
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#photography-portfolio">Photography Portfolio</a>
+      <ul>
+        <li><a href="#photography-instagram-sozodennyhttpswwwinstagramcomsozodenny">Photography Instagram: <a href="https://www.instagram.com/sozodenny">@sozodenny</a></a></li>
+        <li><a href="#portraits-90---1-hour-session-with-unlimited-photos">Portraits $90 - <em>1 hour session with unlimited photos!</em></a></li>
+        <li><a href="#interested-contact-me-at-dennissarsozogmailcommailtodennissarsozogmailcom">Interested? Contact me at <a href="mailto:dennis.sarsozo@gmail.com">dennis.sarsozo@gmail.com</a></a></li>
+      </ul>
+    </li>
+    <li><a href="#nc-state-wellness-and-recreation-portfolio">NC State Wellness and Recreation Portfolio</a>
+      <ul>
+        <li><a href="#videos">Videos</a></li>
+      </ul>
+    </li>
+    <li><a href="#youtube">Youtube</a></li>
+  </ul>
+</nav>
+
+<h3 id="photography-instagram-sozodennyhttpswwwinstagramcomsozodenny">Photography Instagram: <a href="https://www.instagram.com/sozodenny"
+   
+    target="_blank" rel="noopener noreferrer">
+   @sozodenny
+</a></h3>
+<h3 id="portraits-90---1-hour-session-with-unlimited-photos">Portraits $90 - <em>1 hour session with unlimited photos!</em></h3>
+
+
+<div class="grid grid-cols-3 gap-4">
+  <div class="relative group preload lazy rounded">
+      <picture>
+        
+        
+          
+          
+    
+          
+          <source srcset="/photography/portraits/ShawnJoy-DSCF8482_hu7645985021473852467.jpg" type="image/webp">
+    
+          
+          <a href="/photography/portraits/ShawnJoy-DSCF8482.jpg" target="_blank" rel="noopener">
+            <img
+              src="/photography/portraits/ShawnJoy-DSCF8482_hu7645985021473852467.jpg"
+              alt="Couple Anniversary Photo Hawaii"
+              loading="lazy"
+              width="3840"
+              class="preload lazy rounded"
+            >
+          </a>
+        
+      </picture>
+    </div>
+  <div class="relative group preload lazy rounded">
+      <picture>
+        
+        
+          
+          
+    
+          
+          <source srcset="/photography/portraits/ShawnJoy-DSCF8620_hu11136595596978501156.jpg" type="image/webp">
+    
+          
+          <a href="/photography/portraits/ShawnJoy-DSCF8620.jpg" target="_blank" rel="noopener">
+            <img
+              src="/photography/portraits/ShawnJoy-DSCF8620_hu11136595596978501156.jpg"
+              alt="Couple Anniversary Photo Hawaii"
+              loading="lazy"
+              width="3840"
+              class="preload lazy rounded"
+            >
+          </a>
+        
+      </picture>
+    </div>
+  <div class="relative group preload lazy rounded">
+      <picture>
+        
+        
+          
+          
+    
+          
+          <source srcset="/photography/portraits/ShawnJoy-DSCF8475_hu3915939725724708887.jpg" type="image/webp">
+    
+          
+          <a href="/photography/portraits/ShawnJoy-DSCF8475.jpg" target="_blank" rel="noopener">
+            <img
+              src="/photography/portraits/ShawnJoy-DSCF8475_hu3915939725724708887.jpg"
+              alt="Couple Anniversary Photo Hawaii"
+              loading="lazy"
+              width="3840"
+              class="preload lazy rounded"
+            >
+          </a>
+        
+      </picture>
+    </div>
+
+  <div class="relative group col-span-3 lazy rounded">
+      <picture>
+        
+        
+          
+          
+    
+          
+          <source srcset="/photography/portraits/ShawnJoy-DSCF8601_hu9544632652465701957.jpg" type="image/webp">
+    
+          
+          <a href="/photography/portraits/ShawnJoy-DSCF8601.jpg" target="_blank" rel="noopener">
+            <img
+              src="/photography/portraits/ShawnJoy-DSCF8601_hu9544632652465701957.jpg"
+              alt="Couple Anniversary Photo Hawaii"
+              loading="lazy"
+              width="3840"
+              class="col-span-3 lazy rounded"
+            >
+          </a>
+        
+      </picture>
+    </div>
+
+  <div class="relative group col-span-3 lazy rounded">
+      <picture>
+        
+        
+          
+          
+    
+          
+          <source srcset="/photography/portraits/ShawnJoy-DSCF8608_hu8247080568830219039.jpg" type="image/webp">
+    
+          
+          <a href="/photography/portraits/ShawnJoy-DSCF8608.jpg" target="_blank" rel="noopener">
+            <img
+              src="/photography/portraits/ShawnJoy-DSCF8608_hu8247080568830219039.jpg"
+              alt="Couple Anniversary Photo Hawaii"
+              loading="lazy"
+              width="3840"
+              class="col-span-3 lazy rounded"
+            >
+          </a>
+        
+      </picture>
+    </div>
+
+  <div class="relative group lazy rounded">
+      <picture>
+        
+        
+          
+          
+    
+          
+          <source srcset="/photography/portraits/daron-grad_hu4321196416653328567.jpg" type="image/webp">
+    
+          
+          <a href="/photography/portraits/daron-grad.jpg" target="_blank" rel="noopener">
+            <img
+              src="/photography/portraits/daron-grad_hu4321196416653328567.jpg"
+              alt="Female Graduation Portrait"
+              loading="lazy"
+              width="3840"
+              class="lazy rounded"
+            >
+          </a>
+        
+      </picture>
+    </div>
+  <div class="relative group rounded">
+      <picture>
+        
+        
+          
+          
+    
+          
+          <source srcset="/photography/portraits/candid-grad_hu5282655559655652575.jpg" type="image/webp">
+    
+          
+          <a href="/photography/portraits/candid-grad.jpg" target="_blank" rel="noopener">
+            <img
+              src="/photography/portraits/candid-grad_hu5282655559655652575.jpg"
+              alt="2 Females Champagne Graduation Portrait"
+              loading="lazy"
+              width="3840"
+              class="rounded"
+            >
+          </a>
+        
+      </picture>
+    </div>
+  <div class="relative group rounded">
+      <picture>
+        
+        
+          
+          
+    
+          
+          <source srcset="/photography/portraits/anne-grad_hu4720246738187779405.jpg" type="image/webp">
+    
+          
+          <a href="/photography/portraits/anne-grad.jpg" target="_blank" rel="noopener">
+            <img
+              src="/photography/portraits/anne-grad_hu4720246738187779405.jpg"
+              alt="Female Graduation Portrait"
+              loading="lazy"
+              width="3840"
+              class="rounded"
+            >
+          </a>
+        
+      </picture>
+    </div>
+  
+  <div class="relative group rounded">
+      <picture>
+        
+        
+          
+          
+    
+          
+          <source srcset="/photography/portraits/alan-grad_hu13018296588885207691.jpg" type="image/webp">
+    
+          
+          <a href="/photography/portraits/alan-grad.jpg" target="_blank" rel="noopener">
+            <img
+              src="/photography/portraits/alan-grad_hu13018296588885207691.jpg"
+              alt="Male Graduation Portrait"
+              loading="lazy"
+              width="3840"
+              class="rounded"
+            >
+          </a>
+        
+      </picture>
+    </div>
+  <div class="relative group rounded">
+      <picture>
+        
+        
+          
+          
+    
+          
+          <source srcset="/photography/portraits/hoa-grad_hu5880944747702454401.jpg" type="image/webp">
+    
+          
+          <a href="/photography/portraits/hoa-grad.jpg" target="_blank" rel="noopener">
+            <img
+              src="/photography/portraits/hoa-grad_hu5880944747702454401.jpg"
+              alt="Male Graduation Portrait"
+              loading="lazy"
+              width="3840"
+              class="rounded"
+            >
+          </a>
+        
+      </picture>
+    </div>
+  <div class="relative group rounded">
+      <picture>
+        
+        
+          
+          
+    
+          
+          <source srcset="/photography/portraits/zack-grad_hu11428692783339206124.jpg" type="image/webp">
+    
+          
+          <a href="/photography/portraits/zack-grad.jpg" target="_blank" rel="noopener">
+            <img
+              src="/photography/portraits/zack-grad_hu11428692783339206124.jpg"
+              alt="Male Graduation Portrait"
+              loading="lazy"
+              width="3840"
+              class="rounded"
+            >
+          </a>
+        
+      </picture>
+    </div>
+  
+  <div class="relative group rounded">
+      <picture>
+        
+        
+          
+          
+    
+          
+          <source srcset="/photography/portraits/olicia-grad_hu3132556809010715888.jpg" type="image/webp">
+    
+          
+          <a href="/photography/portraits/olicia-grad.jpg" target="_blank" rel="noopener">
+            <img
+              src="/photography/portraits/olicia-grad_hu3132556809010715888.jpg"
+              alt="Female Graduation Portrait"
+              loading="lazy"
+              width="3840"
+              class="rounded"
+            >
+          </a>
+        
+      </picture>
+    </div>
+  <div class="relative group rounded">
+      <picture>
+        
+        
+          
+          
+    
+          
+          <source srcset="/photography/portraits/alex-grad_hu8705500887108056194.jpg" type="image/webp">
+    
+          
+          <a href="/photography/portraits/alex-grad.jpg" target="_blank" rel="noopener">
+            <img
+              src="/photography/portraits/alex-grad_hu8705500887108056194.jpg"
+              alt="Female Graduation Portrait"
+              loading="lazy"
+              width="3840"
+              class="rounded"
+            >
+          </a>
+        
+      </picture>
+    </div>
+  <div class="relative group rounded">
+      <picture>
+        
+        
+          
+          
+    
+          
+          <source srcset="/photography/portraits/nina-grad_hu2594987875656553196.jpg" type="image/webp">
+    
+          
+          <a href="/photography/portraits/nina-grad.jpg" target="_blank" rel="noopener">
+            <img
+              src="/photography/portraits/nina-grad_hu2594987875656553196.jpg"
+              alt="Female Graduation Portrait"
+              loading="lazy"
+              width="3840"
+              class="rounded"
+            >
+          </a>
+        
+      </picture>
+    </div>
+  
+  <div class="relative group rounded">
+      <picture>
+        
+        
+          
+          
+    
+          
+          <source srcset="/photography/portraits/cono-portrait_hu3710067510543704127.jpg" type="image/webp">
+    
+          
+          <a href="/photography/portraits/cono-portrait.jpg" target="_blank" rel="noopener">
+            <img
+              src="/photography/portraits/cono-portrait_hu3710067510543704127.jpg"
+              alt="Male Portrait"
+              loading="lazy"
+              width="3840"
+              class="rounded"
+            >
+          </a>
+        
+      </picture>
+    </div>
+  <div class="relative group rounded">
+      <picture>
+        
+        
+          
+          
+    
+          
+          <source srcset="/photography/portraits/sam-linkedin_hu2425272502283760601.jpg" type="image/webp">
+    
+          
+          <a href="/photography/portraits/sam-linkedin.jpg" target="_blank" rel="noopener">
+            <img
+              src="/photography/portraits/sam-linkedin_hu2425272502283760601.jpg"
+              alt="Male Portrait"
+              loading="lazy"
+              width="3840"
+              class="rounded"
+            >
+          </a>
+        
+      </picture>
+    </div>
+  <div class="relative group rounded">
+      <picture>
+        
+        
+          
+          
+    
+          
+          <source srcset="/photography/portraits/adam-linkedin_hu15017581246026925376.jpg" type="image/webp">
+    
+          
+          <a href="/photography/portraits/adam-linkedin.jpg" target="_blank" rel="noopener">
+            <img
+              src="/photography/portraits/adam-linkedin_hu15017581246026925376.jpg"
+              alt="Male Portrait"
+              loading="lazy"
+              width="3840"
+              class="rounded"
+            >
+          </a>
+        
+      </picture>
+    </div>
+  
+  <div class="relative group rounded">
+      <picture>
+        
+        
+          
+          
+    
+          
+          <source srcset="/photography/portraits/DanielPortrait-web-1_hu9106170374647466084.jpg" type="image/webp">
+    
+          
+          <a href="/photography/portraits/DanielPortrait-web-1.jpg" target="_blank" rel="noopener">
+            <img
+              src="/photography/portraits/DanielPortrait-web-1_hu9106170374647466084.jpg"
+              alt="Male Portrait"
+              loading="lazy"
+              width="3840"
+              class="rounded"
+            >
+          </a>
+        
+      </picture>
+    </div>
+  <div class="relative group rounded">
+      <picture>
+        
+        
+          
+          
+    
+          
+          <source srcset="/photography/portraits/DanielPortrait-web-2_hu13906196819098482853.jpg" type="image/webp">
+    
+          
+          <a href="/photography/portraits/DanielPortrait-web-2.jpg" target="_blank" rel="noopener">
+            <img
+              src="/photography/portraits/DanielPortrait-web-2_hu13906196819098482853.jpg"
+              alt="Male Portrait"
+              loading="lazy"
+              width="3840"
+              class="rounded"
+            >
+          </a>
+        
+      </picture>
+    </div>
+  <div class="relative group rounded">
+      <picture>
+        
+        
+          
+          
+    
+          
+          <source srcset="/photography/portraits/DanielPortrait-web-3_hu17166606809585693049.jpg" type="image/webp">
+    
+          
+          <a href="/photography/portraits/DanielPortrait-web-3.jpg" target="_blank" rel="noopener">
+            <img
+              src="/photography/portraits/DanielPortrait-web-3_hu17166606809585693049.jpg"
+              alt="Male Portrait"
+              loading="lazy"
+              width="3840"
+              class="rounded"
+            >
+          </a>
+        
+      </picture>
+    </div>
+  
+  <div class="relative group rounded">
+      <picture>
+        
+        
+          
+          
+    
+          
+          <source srcset="/photography/portraits/dad-face-left_hu5816096809442085454.jpg" type="image/webp">
+    
+          
+          <a href="/photography/portraits/dad-face-left.jpg" target="_blank" rel="noopener">
+            <img
+              src="/photography/portraits/dad-face-left_hu5816096809442085454.jpg"
+              alt="Male Portrait"
+              loading="lazy"
+              width="3840"
+              class="rounded"
+            >
+          </a>
+        
+      </picture>
+    </div>
+  <div class="relative group rounded">
+      <picture>
+        
+        
+          
+          
+    
+          
+          <source srcset="/photography/portraits/dad-face-on_hu14399204531522515438.jpg" type="image/webp">
+    
+          
+          <a href="/photography/portraits/dad-face-on.jpg" target="_blank" rel="noopener">
+            <img
+              src="/photography/portraits/dad-face-on_hu14399204531522515438.jpg"
+              alt="Male Portrait"
+              loading="lazy"
+              width="3840"
+              class="rounded"
+            >
+          </a>
+        
+      </picture>
+    </div>
+  <div class="relative group rounded">
+      <picture>
+        
+        
+          
+          
+    
+          
+          <source srcset="/photography/portraits/dad-face-right_hu6018342416204561408.jpg" type="image/webp">
+    
+          
+          <a href="/photography/portraits/dad-face-right.jpg" target="_blank" rel="noopener">
+            <img
+              src="/photography/portraits/dad-face-right_hu6018342416204561408.jpg"
+              alt="Male Portrait"
+              loading="lazy"
+              width="3840"
+              class="rounded"
+            >
+          </a>
+        
+      </picture>
+    </div>
+
+  <div class="relative group col-span-3 rounded">
+      <picture>
+        
+        
+          
+          
+    
+          
+          <source srcset="/photography/portraits/duncan-guitar_hu6389143722601387685.jpg" type="image/webp">
+    
+          
+          <a href="/photography/portraits/duncan-guitar.jpg" target="_blank" rel="noopener">
+            <img
+              src="/photography/portraits/duncan-guitar_hu6389143722601387685.jpg"
+              alt="Man playing guitar portrait"
+              loading="lazy"
+              width="3840"
+              class="col-span-3 rounded"
+            >
+          </a>
+        
+      </picture>
+    </div>
+</div>
+
+<h3 id="interested-contact-me-at-dennissarsozogmailcommailtodennissarsozogmailcom">Interested? Contact me at <a href="mailto:dennis.sarsozo@gmail.com"
+   
+   >
+   dennis.sarsozo@gmail.com
+</a></h3>
+<hr>
+<h2 id="nc-state-wellness-and-recreation-portfolio">NC State Wellness and Recreation Portfolio</h2>
+
+
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+  
+  <div class="instagram-embed">
+    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/B1ZfPCPnp8E/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px rgba(0,0,0,0.5),0 1px 10px rgba(0,0,0,0.15); margin:1px; max-width:540px; min-width:326px; padding:0; width:100%;">
+      <div style="padding:16px;">
+        <a href="https://www.instagram.com/p/B1ZfPCPnp8E/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="text-decoration:none; color:inherit;">
+          
+          
+        </a>
+      </div>
+      <p style="text-align:center;">
+        <a href="https://www.instagram.com/p/B1ZfPCPnp8E/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="color:#c9c8cd; text-decoration:none;">View this post on Instagram</a>
+      </p>
+    </blockquote>
+    <script async src="https://www.instagram.com/embed.js"></script>
+  </div>
+  
+  <div class="instagram-embed">
+    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/B3m_BqxHehe/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px rgba(0,0,0,0.5),0 1px 10px rgba(0,0,0,0.15); margin:1px; max-width:540px; min-width:326px; padding:0; width:100%;">
+      <div style="padding:16px;">
+        <a href="https://www.instagram.com/p/B3m_BqxHehe/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="text-decoration:none; color:inherit;">
+          
+          
+        </a>
+      </div>
+      <p style="text-align:center;">
+        <a href="https://www.instagram.com/p/B3m_BqxHehe/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="color:#c9c8cd; text-decoration:none;">View this post on Instagram</a>
+      </p>
+    </blockquote>
+    <script async src="https://www.instagram.com/embed.js"></script>
+  </div>
+  
+  <div class="instagram-embed">
+    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/BjCszpxAXoF/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px rgba(0,0,0,0.5),0 1px 10px rgba(0,0,0,0.15); margin:1px; max-width:540px; min-width:326px; padding:0; width:100%;">
+      <div style="padding:16px;">
+        <a href="https://www.instagram.com/p/BjCszpxAXoF/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="text-decoration:none; color:inherit;">
+          
+          
+        </a>
+      </div>
+      <p style="text-align:center;">
+        <a href="https://www.instagram.com/p/BjCszpxAXoF/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="color:#c9c8cd; text-decoration:none;">View this post on Instagram</a>
+      </p>
+    </blockquote>
+    <script async src="https://www.instagram.com/embed.js"></script>
+  </div>
+  
+  <div class="instagram-embed">
+    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/BpiKo_nHLxP/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px rgba(0,0,0,0.5),0 1px 10px rgba(0,0,0,0.15); margin:1px; max-width:540px; min-width:326px; padding:0; width:100%;">
+      <div style="padding:16px;">
+        <a href="https://www.instagram.com/p/BpiKo_nHLxP/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="text-decoration:none; color:inherit;">
+          
+          
+        </a>
+      </div>
+      <p style="text-align:center;">
+        <a href="https://www.instagram.com/p/BpiKo_nHLxP/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="color:#c9c8cd; text-decoration:none;">View this post on Instagram</a>
+      </p>
+    </blockquote>
+    <script async src="https://www.instagram.com/embed.js"></script>
+  </div>
+  
+  <div class="instagram-embed">
+    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/Bw2G7TlHFmg/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px rgba(0,0,0,0.5),0 1px 10px rgba(0,0,0,0.15); margin:1px; max-width:540px; min-width:326px; padding:0; width:100%;">
+      <div style="padding:16px;">
+        <a href="https://www.instagram.com/p/Bw2G7TlHFmg/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="text-decoration:none; color:inherit;">
+          
+          
+        </a>
+      </div>
+      <p style="text-align:center;">
+        <a href="https://www.instagram.com/p/Bw2G7TlHFmg/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="color:#c9c8cd; text-decoration:none;">View this post on Instagram</a>
+      </p>
+    </blockquote>
+    <script async src="https://www.instagram.com/embed.js"></script>
+  </div>
+  
+  <div class="instagram-embed">
+    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/BtwhKFKHn4t/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px rgba(0,0,0,0.5),0 1px 10px rgba(0,0,0,0.15); margin:1px; max-width:540px; min-width:326px; padding:0; width:100%;">
+      <div style="padding:16px;">
+        <a href="https://www.instagram.com/p/BtwhKFKHn4t/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="text-decoration:none; color:inherit;">
+          
+          
+        </a>
+      </div>
+      <p style="text-align:center;">
+        <a href="https://www.instagram.com/p/BtwhKFKHn4t/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="color:#c9c8cd; text-decoration:none;">View this post on Instagram</a>
+      </p>
+    </blockquote>
+    <script async src="https://www.instagram.com/embed.js"></script>
+  </div>
+  
+  <div class="instagram-embed">
+    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/B3vGAp2nDfL/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px rgba(0,0,0,0.5),0 1px 10px rgba(0,0,0,0.15); margin:1px; max-width:540px; min-width:326px; padding:0; width:100%;">
+      <div style="padding:16px;">
+        <a href="https://www.instagram.com/p/B3vGAp2nDfL/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="text-decoration:none; color:inherit;">
+          
+          
+        </a>
+      </div>
+      <p style="text-align:center;">
+        <a href="https://www.instagram.com/p/B3vGAp2nDfL/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="color:#c9c8cd; text-decoration:none;">View this post on Instagram</a>
+      </p>
+    </blockquote>
+    <script async src="https://www.instagram.com/embed.js"></script>
+  </div>
+  
+  <div class="instagram-embed">
+    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/B4NDZlSHWEq/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px rgba(0,0,0,0.5),0 1px 10px rgba(0,0,0,0.15); margin:1px; max-width:540px; min-width:326px; padding:0; width:100%;">
+      <div style="padding:16px;">
+        <a href="https://www.instagram.com/p/B4NDZlSHWEq/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="text-decoration:none; color:inherit;">
+          
+          
+        </a>
+      </div>
+      <p style="text-align:center;">
+        <a href="https://www.instagram.com/p/B4NDZlSHWEq/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="color:#c9c8cd; text-decoration:none;">View this post on Instagram</a>
+      </p>
+    </blockquote>
+    <script async src="https://www.instagram.com/embed.js"></script>
+  </div>
+  
+  <div class="instagram-embed">
+    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/B4k8VB7nR5m/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px rgba(0,0,0,0.5),0 1px 10px rgba(0,0,0,0.15); margin:1px; max-width:540px; min-width:326px; padding:0; width:100%;">
+      <div style="padding:16px;">
+        <a href="https://www.instagram.com/p/B4k8VB7nR5m/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="text-decoration:none; color:inherit;">
+          
+          
+        </a>
+      </div>
+      <p style="text-align:center;">
+        <a href="https://www.instagram.com/p/B4k8VB7nR5m/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="color:#c9c8cd; text-decoration:none;">View this post on Instagram</a>
+      </p>
+    </blockquote>
+    <script async src="https://www.instagram.com/embed.js"></script>
+  </div>
+  
+  <div class="instagram-embed">
+    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/B8tkHPSHK6m/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px rgba(0,0,0,0.5),0 1px 10px rgba(0,0,0,0.15); margin:1px; max-width:540px; min-width:326px; padding:0; width:100%;">
+      <div style="padding:16px;">
+        <a href="https://www.instagram.com/p/B8tkHPSHK6m/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="text-decoration:none; color:inherit;">
+          
+          
+        </a>
+      </div>
+      <p style="text-align:center;">
+        <a href="https://www.instagram.com/p/B8tkHPSHK6m/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" style="color:#c9c8cd; text-decoration:none;">View this post on Instagram</a>
+      </p>
+    </blockquote>
+    <script async src="https://www.instagram.com/embed.js"></script>
+  </div>
+</div>
+
+<h3 id="videos">Videos</h3>
+
+
+<div class="grid grid-cols-2 sm:grid-cols-2 gap-4 mt-8">
+  <div class="youtube-embed w-full aspect-video rounded-lg shadow-lg ">
+    <iframe 
+      src="https://www.youtube.com/embed/f_BjD5wQes0"
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen
+      class="w-full h-full rounded-lg "
+    ></iframe>
+  </div>
+  <div class="youtube-embed w-full aspect-video rounded-lg shadow-lg ">
+    <iframe 
+      src="https://www.youtube.com/embed/MPlXC4Rvdqs"
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen
+      class="w-full h-full rounded-lg "
+    ></iframe>
+  </div>
+  <div class="youtube-embed w-full aspect-video rounded-lg shadow-lg col-span-2">
+    <iframe 
+      src="https://www.youtube.com/embed/3CZvTzy0sxc"
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen
+      class="w-full h-full rounded-lg col-span-2"
+    ></iframe>
+  </div>
+</div>
+
+<hr>
+<h2 id="youtube">Youtube</h2>
+
+
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-8">
+  <div class="youtube-embed w-full aspect-video rounded-lg shadow-lg ">
+    <iframe 
+      src="https://www.youtube.com/embed/gQMMLKp_oJw?si=ID5HV2sA0aG7pBRz"
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen
+      class="w-full h-full rounded-lg "
+    ></iframe>
+  </div>
+  <div class="youtube-embed w-full aspect-video rounded-lg shadow-lg ">
+    <iframe 
+      src="https://www.youtube.com/embed/UXr6Bv8L30o?si=H539AljUkKN7ysaA"
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen
+      class="w-full h-full rounded-lg "
+    ></iframe>
+  </div>
+</div>
+
+]]></content:encoded></item><item><title>Youtube</title><link>https://www.sozodennis.com/youtube/</link><pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate><author>dennis.sarsozo@gmail.com (Dennis Sarsozo)</author><guid>https://www.sozodennis.com/youtube/</guid><description>&lt;h2 id="youtube---sozodennishttpswwwyoutubecomsozodennis5316">Youtube - &lt;a href="https://www.youtube.com/@sozodennis5316"
+ 
+ target="_blank" rel="noopener noreferrer">
+ sozodennis
+&lt;/a>&lt;/h2>
+
+
+&lt;div class="youtube-embed w-full aspect-video rounded-lg shadow-lg py-4">
+ &lt;iframe 
+ src="https://www.youtube.com/embed/gQMMLKp_oJw?si=ID5HV2sA0aG7pBRz"
+ frameborder="0" 
+ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+ allowfullscreen
+ class="w-full h-full rounded-lg py-4"
+ >&lt;/iframe>
+&lt;/div>
+
+
+
+&lt;div class="youtube-embed w-full aspect-video rounded-lg shadow-lg py-4">
+ &lt;iframe 
+ src="https://www.youtube.com/embed/UXr6Bv8L30o?si=H539AljUkKN7ysaA"
+ frameborder="0" 
+ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+ allowfullscreen
+ class="w-full h-full rounded-lg py-4"
+ >&lt;/iframe>
+&lt;/div></description><content:encoded><![CDATA[<h2 id="youtube---sozodennishttpswwwyoutubecomsozodennis5316">Youtube - <a href="https://www.youtube.com/@sozodennis5316"
+   
+    target="_blank" rel="noopener noreferrer">
+   sozodennis
+</a></h2>
+
+
+<div class="youtube-embed w-full aspect-video rounded-lg shadow-lg py-4">
+  <iframe 
+    src="https://www.youtube.com/embed/gQMMLKp_oJw?si=ID5HV2sA0aG7pBRz"
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen
+    class="w-full h-full rounded-lg py-4"
+  ></iframe>
+</div>
+
+
+
+<div class="youtube-embed w-full aspect-video rounded-lg shadow-lg py-4">
+  <iframe 
+    src="https://www.youtube.com/embed/UXr6Bv8L30o?si=H539AljUkKN7ysaA"
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen
+    class="w-full h-full rounded-lg py-4"
+  ></iframe>
+</div>
+
+]]></content:encoded></item><item><title>Respondus LockDown Browser Does Not Like Virtual Desktop</title><link>https://www.sozodennis.com/posts/virtualdesktop-stop-script/</link><pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate><author>dennis.sarsozo@gmail.com (Dennis Sarsozo)</author><guid>https://www.sozodennis.com/posts/virtualdesktop-stop-script/</guid><description>&lt;h2 id="respondus-lockdown-browser-does-not-like-virtual-desktop">Respondus LockDown Browser Does Not Like Virtual Desktop&lt;/h2>
+&lt;p>&lt;strong>Date:&lt;/strong> 02/08/2021&lt;/p>
+&lt;p>If you&amp;rsquo;re in college in 2020-2021, you probably had to use Respondus LockDown for one of your online classes. Usually, Respondus does a good job of notifying you when it doesn&amp;rsquo;t like a program, then &lt;strong>closes it for you.&lt;/strong>&lt;/p>
+&lt;p>Not for Virtual Desktop, though. It will notify you, but simply leave it running, making &lt;strong>you close it yourself.&lt;/strong>&lt;/p>
+&lt;p>&lt;img src="https://www.sozodennis.com/blog/virtualdesktop-stop-script/respondus-virtualdesktop-screenshot.jpg" alt="Respondus LockDown Virtual Desktop Service Notification">&lt;/p></description><content:encoded><![CDATA[<h2 id="respondus-lockdown-browser-does-not-like-virtual-desktop">Respondus LockDown Browser Does Not Like Virtual Desktop</h2>
+<p><strong>Date:</strong> 02/08/2021</p>
+<p>If you&rsquo;re in college in 2020-2021, you probably had to use Respondus LockDown for one of your online classes. Usually, Respondus does a good job of notifying you when it doesn&rsquo;t like a program, then <strong>closes it for you.</strong></p>
+<p>Not for Virtual Desktop, though. It will notify you, but simply leave it running, making <strong>you close it yourself.</strong></p>
+<p><img src="/blog/virtualdesktop-stop-script/respondus-virtualdesktop-screenshot.jpg" alt="Respondus LockDown Virtual Desktop Service Notification"></p>
+<p><em>Extremely annoying when you have to finish a quiz in&hellip; 3 minutes 🤡</em></p>
+<hr>
+<h2 id="solution-use-a-bat-script">Solution? Use a BAT Script</h2>
+<p>Manually, you had to search for <code>VirtualDesktop.Streamer.exe</code> and <code>VirtualDesktop.Service.exe</code> via Task Manager, then close them. Since we <strong>love automation</strong>, I made a BAT script to automate closing Virtual Desktop!</p>
+<h3 id="steps-to-create-the-script">Steps to Create the Script</h3>
+<ol>
+<li>
+<p>Open <strong>Notepad</strong>.</p>
+</li>
+<li>
+<p>Paste the following commands into Notepad:</p>
+
+
+
+
+
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bat" data-lang="bat"><span class="line"><span class="ln">1</span><span class="cl">taskkill /F /IM VirtualDesktop.Streamer.exe
+</span></span><span class="line"><span class="ln">2</span><span class="cl">taskkill /F /IM VirtualDesktop.Service.exe</span></span></code></pre></div></li>
+<li>
+<p>Go to File &gt; Save As.</p>
+</li>
+<li>
+<p>Save the script as StopVirtualDesktopScript.bat.</p>
+<p>Ensure that you Save as type: All Files.</p>
+</li>
+<li>
+<p>Go to where you saved it, then run it as administrator!</p>
+</li>
+</ol>
+]]></content:encoded></item></channel></rss>

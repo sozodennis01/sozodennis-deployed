@@ -11,10 +11,37 @@
 </a>  Elsewhere</strong>. Its cool to know that I own this little corner of the internet. Not everyone has the skills to do this, so it compells me to try to do it. You can still find me on my socials, but I have all the free will to yip-yap on my own website! No limits on how many photos, videos, or text, just pure html baby.</p>
 <h2 id="happy-new-years">Happy New Years!</h2>
 <p>This is my first <em>real</em> New Years in Hawaii and everyone was popping off! I never saw fireworks up close with glasses too so it was surreal to see it all in 4k.
-
-
-<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/378630/a178919a-e7be-4863-8f17-df2765825f57?autoplay=true&loop=true&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
-</p>
+<div class="bunny-embed" style="position:relative;padding-top:56.25%;">
+    <iframe class="lazy-bunny"
+            data-src="https://iframe.mediadelivery.net/embed/378630/a178919a-e7be-4863-8f17-df2765825f57?autoplay=true&amp;loop=false&amp;muted=false&amp;preload=true&amp;responsive=true"
+            loading="lazy"
+            style="border:0;position:absolute;top:0;height:100%;width:100%;"
+            allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;"
+            allowfullscreen="true">
+    </iframe>
+  </div>
+  
+  
+  
+    
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        const lazyBunnies = document.querySelectorAll('.lazy-bunny');
+        const observer = new IntersectionObserver((entries, observer) => {
+          entries.forEach(entry => {
+            if (entry.isIntersecting) {
+              const iframe = entry.target;
+              iframe.src = iframe.getAttribute('data-src');
+              observer.unobserve(iframe);
+            }
+          });
+        }, { threshold: 0.25 });
+    
+        lazyBunnies.forEach(iframe => observer.observe(iframe));
+      });
+    </script>
+  
+  </p>
 <h2 id="capital-modern-first-friday-date">Capital Modern First Friday Date</h2>
 <p>I went on a art museum date with Kristy and saw Petroglyph art and got some cute stickers + artwork!
 
@@ -23,7 +50,7 @@
 
 <div class="grid grid-cols-2 gap-4 place-items-center ">
   
-<div class="relative group lazy rounded">
+<div class="relative group rounded">
     <picture>
       
       
@@ -40,13 +67,13 @@
             alt="HD Retina Image"
             loading="lazy"
             width="720"
-            class="lazy rounded"
+            class="rounded"
           >
         </a>
       
     </picture>
   </div>
-<div class="relative group lazy rounded">
+<div class="relative group rounded">
     <picture>
       
       
@@ -63,7 +90,7 @@
             alt="HD Retina Image"
             loading="lazy"
             width="720"
-            class="lazy rounded"
+            class="rounded"
           >
         </a>
       
@@ -535,25 +562,25 @@
 
 </div>
 
-
-
-<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/378630/d462af0f-8b82-4854-a922-6be311b3d3a6?autoplay=true&loop=true&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
-</p>
+<div class="bunny-embed" style="position:relative;padding-top:56.25%;">
+    <iframe class="lazy-bunny"
+            data-src="https://iframe.mediadelivery.net/embed/378630/d462af0f-8b82-4854-a922-6be311b3d3a6?autoplay=true&amp;loop=true&amp;muted=false&amp;preload=true&amp;responsive=true"
+            loading="lazy"
+            style="border:0;position:absolute;top:0;height:100%;width:100%;"
+            allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;"
+            allowfullscreen="true">
+    </iframe>
+  </div>
+  
+  
+  
+  </p>
 <h2 id="big-ol-storm">Big ol storm</h2>
 <p>Flash flood at Manoa but luckily safe while driving home, lowkey fun to skate in the rain
 
 
-
-
-
-
-<div class="grid grid-cols-2 gap-4 place-items-center ">
-  
-<div><iframe src="https://iframe.mediadelivery.net/embed/378630/c22726d6-259c-4093-be36-cc5dbce09531?autoplay=true&loop=true&muted=true&preload=true&responsive=true" loading="lazy" style="border:0;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
-<div><iframe src="https://iframe.mediadelivery.net/embed/378630/6995dca6-f090-4150-98d3-5672fc7446c2?autoplay=true&loop=true&muted=true&preload=true&responsive=true" loading="lazy" style="border:0;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
-
-</div>
-
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/378630/c22726d6-259c-4093-be36-cc5dbce09531?autoplay=true&loop=true&muted=true&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/378630/6995dca6-f090-4150-98d3-5672fc7446c2?autoplay=true&loop=true&muted=true&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 <div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/378630/d4beb167-80a0-4ff6-9be9-c19eb2eac724?autoplay=true&loop=true&muted=true&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 </p>
 <h2 id="options-assigned-and-the-last-chubbies-burger">Options assigned and the last Chubbies burger</h2>
@@ -562,7 +589,7 @@
 
 
 
-<div class="grid grid-cols-2 gap-4 place-items-center ">
+<div class="grid grid-cols-2 gap-5 place-items-center ">
   
 <div class="relative group lazy rounded">
     <picture>

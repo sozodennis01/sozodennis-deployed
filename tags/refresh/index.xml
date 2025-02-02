@@ -580,15 +580,28 @@
 
 
 
-
-<div class="grid grid-cols-3 gap-4 place-items-center ">
+<div class="relative">
   
+  <div id="storm-carousel" class="overflow-x-auto flex snap-x snap-mandatory scroll-smooth">
+    
 <div><iframe src="https://iframe.mediadelivery.net/embed/378630/c22726d6-259c-4093-be36-cc5dbce09531?autoplay=true&loop=true&muted=true&preload=true&responsive=true" loading="lazy" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 <div><iframe src="https://iframe.mediadelivery.net/embed/378630/6995dca6-f090-4150-98d3-5672fc7446c2?autoplay=true&loop=true&muted=true&preload=true&responsive=true" loading="lazy" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 <div><iframe src="https://iframe.mediadelivery.net/embed/378630/d4beb167-80a0-4ff6-9be9-c19eb2eac724?autoplay=true&loop=true&muted=true&preload=true&responsive=true" loading="lazy" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 
-</div>
+  </div>
 
+  
+  <button 
+    onclick="document.getElementById('storm-carousel').scrollBy({ left: -document.getElementById('storm-carousel').offsetWidth, behavior: 'smooth' })" 
+    class="absolute top-1/2 left-2 transform -translate-y-1/2 bg-gray-600 text-white p-2 rounded hover:bg-gray-700 focus:outline-none">
+    Prev
+  </button>
+  <button 
+    onclick="document.getElementById('storm-carousel').scrollBy({ left: document.getElementById('storm-carousel').offsetWidth, behavior: 'smooth' })" 
+    class="absolute top-1/2 right-2 transform -translate-y-1/2 bg-gray-600 text-white p-2 rounded hover:bg-gray-700 focus:outline-none">
+    Next
+  </button>
+</div>
 </p>
 <h2 id="options-assigned-and-the-last-chubbies-burger">Options assigned and the last Chubbies burger</h2>
 <p>Accidentally got assigned my options&hellip; whoops 😳 its fine i didn&rsquo;t get charged the full order but it did pay for my lunch :D
@@ -596,7 +609,7 @@
 
 
 
-<div class="grid grid-cols-2 gap-5 place-items-center ">
+<div class="grid grid-cols-2 gap-4 place-items-center ">
   
 <div class="relative group lazy rounded">
     <picture>

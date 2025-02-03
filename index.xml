@@ -803,10 +803,12 @@
 <p>Nerd fact: my first programming language was Visual Basic.</p>
 <hr>
 <h2 id="my-youtube-music-2024-recap">My Youtube Music 2024 Recap</h2>
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=CVI2AdWofHWM-zRJ&amp;list=PL9mqt0W45QztamO2JGgsS2HWv3PgXmnEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full ">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=CVI2AdWofHWM-zRJ&amp;amp;list=PL9mqt0W45QztamO2JGgsS2HWv3PgXmnEa" title="YouTube video player" frameborder="0"
+    class="w-full h-full rounded-lg "
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 ]]></content:encoded></item><item><title>My First Post of 2025</title><link>https://www.sozodennis.com/posts/first_post_2025/</link><pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate><author>dennis.sarsozo@gmail.com (Dennis Sarsozo)</author><guid>https://www.sozodennis.com/posts/first_post_2025/</guid><description>&lt;h2 id="i-migrated-my-old-website-to-hugo">I migrated my old website to Hugo&lt;/h2>
 &lt;p>I decided this new years I would try out the concept &lt;strong>POSSE&lt;/strong>, an abbreviation for &lt;strong>Publish (on your) Own Site, &lt;a href="https://indieweb.org/Category:syndication"
  title="Category:syndication"
@@ -2578,17 +2580,12 @@
  target="_blank" rel="noopener noreferrer">
  sozodennis
 &lt;/a>&lt;/h2>
-
-
 &lt;div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full py-4">
  &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gQMMLKp_oJw?si=ID5HV2sA0aG7pBRz" title="YouTube video player" frameborder="0"
  class="w-full h-full rounded-lg py-4"
  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
 &lt;/div>
-
-
-
 &lt;div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full py-4">
  &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/UXr6Bv8L30o?si=H539AljUkKN7ysaA" title="YouTube video player" frameborder="0"
  class="w-full h-full rounded-lg py-4"
@@ -2599,24 +2596,18 @@
     target="_blank" rel="noopener noreferrer">
    sozodennis
 </a></h2>
-
-
 <div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full py-4">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/gQMMLKp_oJw?si=ID5HV2sA0aG7pBRz" title="YouTube video player" frameborder="0"
     class="w-full h-full rounded-lg py-4"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-
-
-
 <div class="youtube-embed w-full aspect-video rounded-lg shadow-lg h-full py-4">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/UXr6Bv8L30o?si=H539AljUkKN7ysaA" title="YouTube video player" frameborder="0"
     class="w-full h-full rounded-lg py-4"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-
 ]]></content:encoded></item><item><title>Respondus LockDown Browser Does Not Like Virtual Desktop</title><link>https://www.sozodennis.com/posts/virtualdesktop-stop-script/</link><pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate><author>dennis.sarsozo@gmail.com (Dennis Sarsozo)</author><guid>https://www.sozodennis.com/posts/virtualdesktop-stop-script/</guid><description>&lt;h2 id="respondus-lockdown-browser-does-not-like-virtual-desktop">Respondus LockDown Browser Does Not Like Virtual Desktop&lt;/h2>
 &lt;p>&lt;strong>Date:&lt;/strong> 02/08/2021&lt;/p>
 &lt;p>If you&amp;rsquo;re in college in 2020-2021, you probably had to use Respondus LockDown for one of your online classes. Usually, Respondus does a good job of notifying you when it doesn&amp;rsquo;t like a program, then &lt;strong>closes it for you.&lt;/strong>&lt;/p>
